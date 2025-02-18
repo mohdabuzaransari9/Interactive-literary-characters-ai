@@ -8,7 +8,7 @@ upload=st.sidebar.file_uploader('upload file',type=['pdf','txt'])
 prompt=st.chat_input("Ask anything")
 book_list=['The Adventures of Sherlock Holmes']
 book_selection=st.sidebar.selectbox('select example book to see demo',book_list,index=0)
-selectbox_options=['RNN','tansformer']
+selectbox_options=['RNN','transformer']
 
 selectbox_var=st.sidebar.selectbox('model selection ',selectbox_options,index=1)
 if selectbox_var:
