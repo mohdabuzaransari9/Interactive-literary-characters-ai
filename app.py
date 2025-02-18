@@ -1,3 +1,5 @@
+
+
 #importing all libraries
 import streamlit as st
 
@@ -29,12 +31,17 @@ book_selection=st.sidebar.selectbox('select example book to see demo',book_list,
 
 #sidebar model selectbox
 
-selectbox_options=['RNN','transformer']
+selectbox_options=['RNN','Transformer']
 
 selectbox_var=st.sidebar.selectbox('model selection ',selectbox_options,index=1)
-if selectbox_var:
+if (selectbox_var=='RNN'):
 
+    st.sidebar.success('78 percent accuracy')
+
+if (selectbox_var=='Transformer'):
     st.sidebar.success('90 percent accuracy')
+
+
 
 #main content
 #placing prompt chat input
@@ -42,7 +49,3 @@ prompt=st.chat_input('Ask anything')
 if prompt:
     st.write('prompt:')
     st.write(f'{prompt}')
-
-
-
-
