@@ -17,7 +17,8 @@ if selectbox_var:
 
 
 if prompt:
-    st.write(f'user sent the prompt \n{prompt}')
+    st.write('user prompt:')
+    st.write(f'{prompt}')
 
 
 
