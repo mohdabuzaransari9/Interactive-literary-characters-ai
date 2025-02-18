@@ -34,7 +34,7 @@ if selectbox_var:
 #placing prompt chat input
 prompt=st.chat_input('Ask anything')
 if prompt:
-    st.write('user prompt:')
+    st.write('prompt:')
     st.write(f'{prompt}')
 
 
