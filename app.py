@@ -18,7 +18,13 @@ upload=st.sidebar.file_uploader('upload file',type=['pdf','txt'])
 
 
 #sidebar book example selectbox
-book_list=['The Adventures of Sherlock Holmes']
+book_list=['A Study in Scarlet',
+           'The Sign of Four',
+           'The Adventures of Sherlock Holmes',
+           'The Memoirs of Sherlock Holmes',
+           'The Return of Sherlock Holmes']
+
+
 book_selection=st.sidebar.selectbox('select example book to see demo',book_list,index=0)
 
 #sidebar model selectbox
