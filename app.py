@@ -5,7 +5,7 @@ import streamlit as st
 
 
 #header defining
-st.header('Ai Literary Chatbot')
+st.header('Interactive literary characters ai')
 
 #expander defining
 with st.expander('Instruction how to use :smile:'):
@@ -19,6 +19,7 @@ st.divider()
 upload=st.sidebar.file_uploader('upload file',type=['pdf','txt'])
 
 
+
 #sidebar book example selectbox
 book_list=['A Study in Scarlet',
            'The Sign of Four',
@@ -29,11 +30,15 @@ book_list=['A Study in Scarlet',
 
 book_selection=st.sidebar.selectbox('select example book to see demo',book_list,index=0)
 
+if book_selection:
+    st.sidebar.success(f'{book_selection} is selected')
+
+
 #sidebar model selectbox
 
-selectbox_options=['RNN','Transformer']
+selectbox_options=['Transformer']
 
-selectbox_var=st.sidebar.selectbox('model selection ',selectbox_options,index=1)
+selectbox_var=st.sidebar.selectbox('model selection ',selectbox_options,index=0)
 if (selectbox_var=='RNN'):
 
     st.sidebar.success('78 percent accuracy')
