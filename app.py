@@ -21,7 +21,8 @@ upload=st.sidebar.file_uploader('upload file',type=['pdf','txt'])
 
 
 #sidebar book example selectbox
-book_list=['A Study in Scarlet',
+book_list=['Diary Of A Wimpy Kid',
+           'A Study in Scarlet',
            'The Sign of Four',
            'The Adventures of Sherlock Holmes',
            'The Memoirs of Sherlock Holmes',
@@ -39,9 +40,9 @@ if book_selection:
 selectbox_options=['Transformer']
 
 selectbox_var=st.sidebar.selectbox('model selection ',selectbox_options,index=0)
-if (selectbox_var=='RNN'):
+# if (selectbox_var=='RNN'):
 
-    st.sidebar.success('78 percent accuracy')
+#     st.sidebar.success('78 percent accuracy')
 
 if (selectbox_var=='Transformer'):
     st.sidebar.success('90 percent accuracy')
