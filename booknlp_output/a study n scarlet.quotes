@@ -1,0 +1,899 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+735	738	708	710	a medical board	250	“ Orontes , ”
+1079	1090	1091	1091	he	125	“ Whatever have you been doing with yourself , Watson ? ”
+1106	1121	1091	1091	he	125	“ You are as thin as a lath and as brown as a nut . ”
+1146	1150	1151	1151	he	125	“ Poor devil ! ”
+1164	1172	1157	1157	he	125	“ What are you up to now ? ”
+1173	1178	1179	1179	I	0	“ Looking for lodgings , ”
+1182	1203	1179	1179	I	0	“ Trying to solve the problem as to whether it is possible to get comfortable rooms at a reasonable price . ”
+1204	1211	1213	1214	my companion	271	“ That ’s a strange thing , ”
+1216	1233	1213	1214	my companion	271	“ you are the second man to - day that has used that expression to me . ”
+1234	1241	1242	1242	I	0	“ And who was the first ? ”
+1245	1295	1213	1214	my companion	271	“ A fellow who is working at the chemical laboratory up at the hospital . He was bemoaning himself this morning because he could not get someone to go halves with him in some nice rooms which he had found , and which were too much for his purse . ”
+1296	1300	1301	1301	I	0	“ By Jove ! ”
+1304	1336	1301	1301	I	0	“ if he really wants someone to share the rooms and the expense , I am the very man for him . I should prefer having a partner to being alone . ”
+1350	1359	1360	1360	he	125	“ You do n’t know Sherlock Holmes yet , ”
+1363	1376	1360	1360	he	125	“ perhaps you would not care for him as a constant companion . ”
+1377	1386	1301	1301	I	0	“ Why , what is there against him ? ”
+1387	1429	1360	1360	he	125	“ Oh , I did n’t say there was anything against him . He is a little queer in his ideas — an enthusiast in some branches of science . As far as I know he is a decent fellow enough . ”
+1430	1438	1440	1440	I.	0	“ A medical student , I suppose ? ”
+1441	1520	1360	1360	he	125	“ No — I have no idea what he intends to go in for . I believe he is well up in anatomy , and he is a first - class chemist ; but , as far as I know , he has never taken out any systematic medical classes . His studies are very desultory and eccentric , but he has amassed a lot of out - of - the way knowledge which would astonish his professors . ”
+1521	1534	1535	1535	I	0	“ Did you never ask him what he was going in for ? ”
+1538	1566	1360	1360	he	125	“ No ; he is not a man that it is easy to draw out , though he can be communicative enough when the fancy seizes him . ”
+1567	1575	1576	1576	I	0	“ I should like to meet him , ”
+1579	1639	1576	1576	I	0	“ If I am to lodge with anyone , I should prefer a man of studious and quiet habits . I am not strong enough yet to stand much noise or excitement . I had enough of both in Afghanistan to last me for the remainder of my natural existence . How could I meet this friend of yours ? ”
+1640	1650	1652	1653	my companion	271	“ He is sure to be at the laboratory , ”
+1655	1686	1652	1653	my companion	271	“ He either avoids the place for weeks , or else he works there from morning to night . If you like , we shall drive round together after luncheon . ”
+1687	1690	1691	1691	I	0	“ Certainly , ”
+1737	1752	1753	1753	he	125	“ You must n’t blame me if you do n’t get on with him , ”
+1756	1788	1753	1753	he	125	“ I know nothing more of him than I have learned from meeting him occasionally in the laboratory . You proposed this arrangement , so you must not hold me responsible . ”
+1789	1804	1805	1805	I	0	“ If we do n’t get on it will be easy to part company , ”
+1808	1816	1817	1817	I	0	“ It seems to me , Stamford , ”
+1826	1862	1817	1817	I	0	“ that you have some reason for washing your hands of the matter . Is this fellow ’s temper so formidable , or what is it ? Do n’t be mealy - mouthed about it . ”
+1863	1873	1874	1874	he	125	“ It is not easy to express the inexpressible , ”
+1880	1971	1874	1874	he	125	“ Holmes is a little too scientific for my tastes — it approaches to cold - bloodedness . I could imagine his giving a friend a little pinch of the latest vegetable alkaloid , not out of malevolence , you understand , but simply out of a spirit of inquiry in order to have an accurate idea of the effects . To do him justice , I think that he would take it himself with the same readiness . He appears to have a passion for definite and exact knowledge . ”
+1972	1977	1817	1817	I	0	“ Very right too . ”
+1978	2014	1874	1874	he	125	“ Yes , but it may be pushed to excess . When it comes to beating the subjects in the dissecting - rooms with a stick , it is certainly taking rather a bizarre shape . ”
+2015	2020	1817	1817	I	0	“ Beating the subjects ! ”
+2021	2045	1874	1874	he	125	“ Yes , to verify how far bruises may be produced after death . I saw him at it with my own eyes . ”
+2046	2058	1817	1817	I	0	“ And yet you say he is not a medical student ? ”
+2059	2087	2089	2089	he	278	“ No . Heaven knows what the objects of his studies are . But here we are , and you must form your own impressions about him . ”
+2257	2268	2269	2269	he	288	“ I ’ve found it ! I ’ve found it , ”
+2287	2306	2269	2269	he	288	“ I have found a re - agent which is precipitated by hæmoglobin , and by nothing else . ”
+2324	2332	2334	2334	Stamford	125	“ Dr. Watson , Mr. Sherlock Holmes , ”
+2339	2344	2345	2345	he	288	“ How are you ? ”
+2365	2375	2345	2345	he	288	“ You have been in Afghanistan , I perceive . ”
+2376	2385	2386	2386	I	0	“ How on earth did you know that ? ”
+2391	2395	2397	2397	he	288	“ Never mind , ”
+2403	2423	2397	2397	he	288	“ The question now is about hæmoglobin . No doubt you see the significance of this discovery of mine ? ”
+2424	2434	2435	2435	I	0	“ It is interesting , chemically , no doubt , ”
+2438	2443	2435	2435	I	0	“ but practically — — ”
+2444	2481	2482	2482	He	288	“ Why , man , it is the most practical medico - legal discovery for years . Do n’t you see that it gives us an infallible test for blood stains . Come over here now ! ”
+2508	2516	2517	2517	he	288	“ Let us have some fresh blood , ”
+2541	2602	2517	2517	he	288	“ Now , I add this small quantity of blood to a litre of water . You perceive that the resulting mixture has the appearance of pure water . The proportion of blood can not be more than one in a million . I have no doubt , however , that we shall be able to obtain the characteristic reaction . ”
+2652	2657	2658	2658	he	288	“ Ha ! ha ! ”
+2677	2685	2658	2658	he	288	“ What do you think of that ? ”
+2686	2696	2697	2697	I	0	“ It seems to be a very delicate test , ”
+2700	2780	2658	2658	he	288	“ Beautiful ! beautiful ! The old Guiacum test was very clumsy and uncertain . So is the microscopic examination for blood corpuscles . The latter is valueless if the stains are a few hours old . Now , this appears to act as well whether the blood is old or new . Had this test been invented , there are hundreds of men now walking the earth who would long ago have paid the penalty of their crimes . ”
+2781	2784	2785	2785	I	0	“ Indeed ! ”
+2788	2889	2658	2658	he	288	“ Criminal cases are continually hinging upon that one point . A man is suspected of a crime months perhaps after it has been committed . His linen or clothes are examined , and brownish stains discovered upon them . Are they blood stains , or mud stains , or rust stains , or fruit stains , or what are they ? That is a question which has puzzled many an expert , and why ? Because there was no reliable test . Now we have the Sherlock Holmes ’ test , and there will no longer be any difficulty . ”
+2920	2927	2928	2928	I	0	“ You are to be congratulated , ”
+2937	3001	2895	2895	he	288	“ There was the case of Von Bischoff at Frankfort last year . He would certainly have been hung had this test been in existence . Then there was Mason of Bradford , and the notorious Muller , and Lefevre of Montpellier , and Samson of New Orleans . I could name a score of cases in which it would have been decisive . ”
+3002	3013	3015	3015	Stamford	125	“ You seem to be a walking calendar of crime , ”
+3020	3041	3015	3015	Stamford	125	“ You might start a paper on those lines . Call it the ‘ Police News of the Past . ’ ”
+3042	3053	3055	3056	Sherlock Holmes	119	“ Very interesting reading it might be made , too , ”
+3071	3078	3079	3079	he	119	“ I have to be careful , ”
+3089	3099	3079	3079	he	119	“ for I dabble with poisons a good deal . ”
+3130	3137	3139	3139	Stamford	125	“ We came here on business , ”
+3162	3198	3159	3159	his	125	“ My friend here wants to take diggings , and as you were complaining that you could get no one to go halves with you , I thought that I had better bring you together . ”
+3213	3225	3226	3226	he	119	“ I have my eye on a suite in Baker Street , ”
+3229	3252	3226	3226	he	119	“ which would suit us down to the ground . You do n’t mind the smell of strong tobacco , I hope ? ”
+3253	3263	3264	3264	I	0	“ I always smoke ‘ ship ’s ’ myself , ”
+3267	3289	3226	3226	he	119	“ That ’s good enough . I generally have chemicals about , and occasionally do experiments . Would that annoy you ? ”
+3290	3295	3226	3226	he	119	“ By no means . ”
+3296	3379	3226	3226	he	119	“ Let me see — what are my other shortcomings . I get in the dumps at times , and do n’t open my mouth for days on end . You must not think I am sulky when I do that . Just let me alone , and I ’ll soon be right . What have you to confess now ? It ’s just as well for two fellows to know the worst of one another before they begin to live together . ”
+3388	3395	3396	3396	I	0	“ I keep a bull pup , ”
+3399	3448	3396	3396	I	0	“ and I object to rows because my nerves are shaken , and I get up at all sorts of ungodly hours , and I am extremely lazy . I have another set of vices when I ’m well , but those are the principal ones at present . ”
+3449	3462	3463	3463	he	294	“ Do you include violin - playing in your category of rows ? ”
+3468	3475	3476	3476	I	0	“ It depends on the player , ”
+3479	3499	3476	3476	I	0	“ A well - played violin is a treat for the gods — a badly - played one — — ”
+3500	3508	3509	3509	he	294	“ Oh , that ’s all right , ”
+3517	3539	3509	3509	he	294	“ I think we may consider the thing as settled — that is , if the rooms are agreeable to you . ”
+3540	3547	3476	3476	I	0	“ When shall we see them ? ”
+3548	3568	3569	3569	he	294	“ Call for me here at noon to - morrow , and we ’ll go together and settle everything , ”
+3572	3579	3581	3581	I	0	“ All right — noon exactly , ”
+3603	3608	3609	3609	I	0	“ By the way , ”
+3619	3633	3609	3609	I	0	“ how the deuce did he know that I had come from Afghanistan ? ”
+3641	3649	3650	3650	he	294	“ That ’s just his little peculiarity , ”
+3653	3668	3650	3650	he	294	“ A good many people have wanted to know how he finds things out . ”
+3669	3677	3678	3678	I	0	“ Oh ! a mystery is it ? ”
+3685	3715	3678	3678	I	0	“ This is very piquant . I am much obliged to you for bringing us together . ‘ The proper study of mankind is man , ’ you know . ”
+3716	3724	3725	3725	Stamford	125	“ You must study him , then , ”
+3736	3764	3729	3729	he	125	“ You ’ll find him a knotty problem , though . I ’ll wager he learns more about you than you about him . Good - bye . ”
+3765	3770	3771	3771	I	0	“ Good - bye , ”
+4685	4692	4693	4693	he	317	“ You appear to be astonished , ”
+4703	4719	4693	4693	he	317	“ Now that I do know it I shall do my best to forget it . ”
+4720	4725	4693	4693	he	317	“ To forget it ! ”
+4726	4730	4731	4731	he	317	“ You see , ”
+4734	4930	4731	4731	he	317	“ I consider that a man ’s brain originally is like a little empty attic , and you have to stock it with such furniture as you choose . A fool takes in all the lumber of every sort that he comes across , so that the knowledge which might be useful to him gets crowded out , or at best is jumbled up with a lot of other things so that he has a difficulty in laying his hands upon it . Now the skilful workman is very careful indeed as to what he takes into his brain - attic . He will have nothing but the tools which may help him in doing his work , but of these he has a large assortment , and all in the most perfect order . It is a mistake to think that that little room has elastic walls and can distend to any extent . Depend upon it there comes a time when for every addition of knowledge you forget something that you knew before . It is of the highest importance , therefore , not to have useless facts elbowing out the useful ones . ”
+4931	4937	4938	4938	I	0	“ But the Solar System ! ”
+4941	4950	4951	4951	he	324	“ What the deuce is it to me ? ”
+4955	4986	4951	4951	he	324	“ you say that we go round the sun . If we went round the moon it would not make a pennyworth of difference to me or to my work . ”
+5290	5317	5318	5318	I	0	“ If I can only find what the fellow is driving at by reconciling all these accomplishments , and discovering a calling which needs them all , ”
+5323	5335	5318	5318	I	0	“ I may as well give up the attempt at once . ”
+5755	5768	5769	5769	he	119	“ I have to use this room as a place of business , ”
+5772	5780	5769	5769	he	119	“ and these people are my clients . ”
+5977	5983	5972	5972	Its	348	“ The Book of Life , ”
+6136	6143	6145	6146	the writer	350	“ From a drop of water , ”
+6148	6394	6145	6146	the writer	350	“ a logician could infer the possibility of an Atlantic or a Niagara without having seen or heard of one or the other . So all life is a great chain , the nature of which is known whenever we are shown a single link of it . Like all other arts , the Science of Deduction and Analysis is one which can only be acquired by long and patient study nor , is life long enough to allow any mortal to attain the highest possible perfection in it . Before turning to those moral and mental aspects of the matter which present the greatest difficulties , let the enquirer begin by mastering more elementary problems . Let him , on meeting a fellow - mortal , learn at a glance to distinguish the history of the man , and the trade or profession to which he belongs . Puerile as such an exercise may seem , it sharpens the faculties of observation , and teaches one where to look and what to look for . By a man ’s finger nails , by his coat - sleeve , by his boot , by his trouser knees , by the callosities of his forefinger and thumb , by his expression , by his shirt cuffs — by each of these things a man ’s calling is plainly revealed . That all united should fail to enlighten the competent enquirer in any case is almost inconceivable . ”
+6395	6400	6401	6401	I	0	“ What ineffable twaddle ! ”
+6412	6422	6401	6401	I	0	“ I never read such rubbish in my life . ”
+6423	6428	6430	6431	Sherlock Holmes	119	“ What is it ? ”
+6433	6439	6440	6440	I	0	“ Why , this article , ”
+6458	6558	6440	6440	I	0	“ I see that you have read it since you have marked it . I do n’t deny that it is smartly written . It irritates me though . It is evidently the theory of some arm - chair lounger who evolves all these neat little paradoxes in the seclusion of his own study . It is not practical . I should like to see him clapped down in a third class carriage on the Underground , and asked to give the trades of all his fellow - travellers . I would lay a thousand to one against him . ”
+6559	6566	6567	6568	Sherlock Holmes	119	“ You would lose your money , ”
+6572	6582	6567	6568	Sherlock Holmes	119	“ As for the article I wrote it myself . ”
+6583	6586	6440	6440	I	0	“ You ! ”
+6587	6636	6567	6568	Sherlock Holmes	119	“ Yes , I have a turn both for observation and for deduction . The theories which I have expressed there , and which appear to you to be so chimerical are really extremely practical — so practical that I depend upon them for my bread and cheese . ”
+6637	6641	6642	6642	I	0	“ And how ? ”
+6646	6815	6567	6568	Sherlock Holmes	119	“ Well , I have a trade of my own . I suppose I am the only one in the world . I ’m a consulting detective , if you can understand what that is . Here in London we have lots of Government detectives and lots of private ones . When these fellows are at fault they come to me , and I manage to put them on the right scent . They lay all the evidence before me , and I am generally able , by the help of my knowledge of the history of crime , to set them straight . There is a strong family resemblance about misdeeds , and if you have all the details of a thousand at your finger ends , it is odd if you ca n’t unravel the thousand and first . Lestrade is a well - known detective . He got himself into a fog recently over a forgery case , and that was what brought him here . ”
+6816	6822	6567	6568	Sherlock Holmes	119	“ And these other people ? ”
+6823	6870	6567	6568	Sherlock Holmes	119	“ They are mostly sent on by private inquiry agencies . They are all people who are in trouble about something , and want a little enlightening . I listen to their story , they listen to my comments , and then I pocket my fee . ”
+6871	6879	6880	6880	I	0	“ But do you mean to say , ”
+6883	6911	6880	6880	I	0	“ that without leaving your room you can unravel some knot which other men can make nothing of , although they have seen every detail for themselves ? ”
+6912	7026	6567	6568	Sherlock Holmes	119	“ Quite so . I have a kind of intuition that way . Now and again a case turns up which is a little more complex . Then I have to bustle about and see things with my own eyes . You see I have a lot of special knowledge which I apply to the problem , and which facilitates matters wonderfully . Those rules of deduction laid down in that article which aroused your scorn , are invaluable to me in practical work . Observation with me is second nature . You appeared to be surprised when I told you , on our first meeting , that you had come from Afghanistan . ”
+7027	7035	6880	6880	I	0	“ You were told , no doubt . ”
+7036	7228	6567	6568	Sherlock Holmes	119	“ Nothing of the sort . I _ knew _ you came from Afghanistan . From long habit the train of thoughts ran so swiftly through my mind , that I arrived at the conclusion without being conscious of intermediate steps . There were such steps , however . The train of reasoning ran , ‘ Here is a gentleman of a medical type , but with the air of a military man . Clearly an army doctor , then . He has just come from the tropics , for his face is dark , and that is not the natural tint of his skin , for his wrists are fair . He has undergone hardship and sickness , as his haggard face says clearly . His left arm has been injured . He holds it in a stiff and unnatural manner . Where in the tropics could an English army doctor have seen much hardship and got his arm wounded ? Clearly in Afghanistan . ’ The whole train of thought did not occupy a second . I then remarked that you came from Afghanistan , and you were astonished . ”
+7229	7239	7240	7240	I	0	“ It is simple enough as you explain it , ”
+7245	7269	7240	7240	I	0	“ You remind me of Edgar Allen Poe ’s Dupin . I had no idea that such individuals did exist outside of stories . ”
+7278	7294	7295	7295	he	119	“ No doubt you think that you are complimenting me in comparing me to Dupin , ”
+7298	7367	7295	7295	he	119	“ Now , in my opinion , Dupin was a very inferior fellow . That trick of his of breaking in on his friends ’ thoughts with an apropos remark after a quarter of an hour ’s silence is really very showy and superficial . He had some analytical genius , no doubt ; but he was by no means such a phenomenon as Poe appeared to imagine . ”
+7368	7376	7377	7377	I	0	“ Have you read Gaboriau ’s works ? ”
+7380	7392	7377	7377	I	0	“ Does Lecoq come up to your idea of a detective ? ”
+7398	7405	7406	7406	he	119	“ Lecoq was a miserable bungler , ”
+7414	7482	7406	7406	he	119	“ he had only one thing to recommend him , and that was his energy . That book made me positively ill . The question was how to identify an unknown prisoner . I could have done it in twenty - four hours . Lecoq took six months or so . It might be made a text - book for detectives to teach them what to avoid . ”
+7517	7525	7526	7526	I	0	“ This fellow may be very clever , ”
+7531	7539	7526	7526	I	0	“ but he is certainly very conceited . ”
+7540	7552	7553	7553	he	119	“ There are no crimes and no criminals in these days , ”
+7558	7651	7553	7553	he	119	“ What is the use of having brains in our profession . I know well that I have it in me to make my name famous . No man lives or has ever lived who has brought the same amount of study and of natural talent to the detection of crime which I have done . And what is the result ? There is no crime to detect , or , at most , some bungling villainy with a motive so transparent that even a Scotland Yard official can see through it . ”
+7672	7682	7683	7683	I	0	“ I wonder what that fellow is looking for ? ”
+7732	7741	7743	7744	Sherlock Holmes	119	“ You mean the retired sergeant of Marines , ”
+7746	7751	7753	7753	I	0	“ Brag and bounce ! ”
+7757	7768	7753	7753	I	0	“ He knows that I can not verify his guess . ”
+7818	7824	7825	7825	he	359	“ For Mr. Sherlock Holmes , ”
+7863	7871	7872	7872	I	0	“ May I ask , my lad , ”
+7880	7887	7872	7872	I	0	“ what your trade may be ? ”
+7888	7893	7894	7894	he	359	“ Commissionaire , sir , ”
+7899	7905	7894	7894	he	359	“ Uniform away for repairs . ”
+7906	7911	7912	7912	I	0	“ And you were ? ”
+7924	7944	7945	7945	He	359	“ A sergeant , sir , Royal Marine Light Infantry , sir . No answer ? Right , sir . ”
+8073	8083	8084	8084	I	0	“ How in the world did you deduce that ? ”
+8087	8091	8093	8093	he	359	“ Deduce what ? ”
+8097	8109	8057	8057	his	359	“ Why , that he was a retired sergeant of Marines . ”
+8110	8118	8119	8119	he	359	“ I have no time for trifles , ”
+8129	8166	8119	8119	he	359	“ Excuse my rudeness . You broke the thread of my thoughts ; but perhaps it is as well . So you actually were not able to see that that man was a sergeant of Marines ? ”
+8167	8172	8057	8057	his	359	“ No , indeed . ”
+8173	8330	8119	8119	he	359	“ It was easier to know it than to explain why I knew it . If you were asked to prove that two and two made four , you might find some difficulty , and yet you are quite sure of the fact . Even across the street I could see a great blue anchor tattooed on the back of the fellow ’s hand . That smacked of the sea . He had a military carriage , however , and regulation side whiskers . There we have the marine . He was a man with some amount of self - importance and a certain air of command . You must have observed the way in which he held his head and swung his cane . A steady , respectable , middle - aged man , too , on the face of him — all facts which led me to believe that he had been a sergeant . ”
+8331	8334	8335	8335	I	0	“ Wonderful ! ”
+8338	8341	8343	8343	Holmes	119	“ Commonplace , ”
+8362	8384	8385	8385	He	119	“ I said just now that there were no criminals . It appears that I am wrong — look at this ! ”
+8397	8400	8401	8401	I	0	“ Why , ”
+8412	8417	8405	8405	I	0	“ this is terrible ! ”
+8418	8431	8432	8432	he	119	“ It does seem to be a little out of the common , ”
+8437	8447	8432	8432	he	119	“ Would you mind reading it to me aloud ? ”
+8458	8466	8453	8453	I	0	“ MY DEAR MR . SHERLOCK HOLMES , —
+8467	8691	8405	8405	I	0	“ There has been a bad business during the night at 3 , Lauriston Gardens , off the Brixton Road . Our man on the beat saw a light there about two in the morning , and as the house was an empty one , suspected that something was amiss . He found the door open , and in the front room , which is bare of furniture , discovered the body of a gentleman , well dressed , and having cards in his pocket bearing the name of ‘ Enoch J. Drebber , Cleveland , Ohio , U.S.A. ’ There had been no robbery , nor is there any evidence as to how the man met his death . There are marks of blood in the room , but there is no wound upon his person . We are at a loss as to how he came into the empty house ; indeed , the whole affair is a puzzler . If you can come round to the house any time before twelve , you will find me there . I have left everything _ in statu quo _ until I hear from you . If you are unable to come I shall give you fuller details , and would esteem it a great kindness if you would favour me with your opinion .
+8695	8699	8692	8692	Yours	368	“ TOBIAS GREGSON . ”
+8700	8710	8711	8712	my friend	363	“ Gregson is the smartest of the Scotland Yarders , ”
+8715	8778	8711	8712	my friend	363	“ he and Lestrade are the pick of a bad lot . They are both quick and energetic , but conventional — shockingly so . They have their knives into one another , too . They are as jealous as a pair of professional beauties . There will be some fun over this case if they are both put upon the scent . ”
+8792	8803	8804	8804	I	0	“ Surely there is not a moment to be lost , ”
+8807	8817	8804	8804	I	0	“ shall I go and order you a cab ? ”
+8818	8862	8692	8692	Yours	368	“ I ’m not sure about whether I shall go . I am the most incurably lazy devil that ever stood in shoe leather — that is , when the fit is on me , for I can be spry enough at times . ”
+8863	8879	8804	8804	I	0	“ Why , it is just such a chance as you have been longing for . ”
+8880	8924	8692	8692	Yours	368	“ My dear fellow , what does it matter to me . Supposing I unravel the whole matter , you may be sure that Gregson , Lestrade , and Co. will pocket all the credit . That comes of being an unofficial personage . ”
+8925	8934	8804	8804	I	0	“ But he begs you to help him . ”
+8935	9007	8692	8692	Yours	368	“ Yes . He knows that I am his superior , and acknowledges it to me ; but he would cut his tongue out before he would own it to any third person . However , we may as well go and have a look . I shall work it out on my own hook . I may have a laugh at them if I have nothing else . Come on ! ”
+9032	9037	9038	9038	he	371	“ Get your hat , ”
+9041	9048	8804	8804	I	0	“ You wish me to come ? ”
+9049	9060	8804	8804	I	0	“ Yes , if you have nothing better to do . ”
+9163	9178	9179	9179	I	0	“ You do n’t seem to give much thought to the matter in hand , ”
+9190	9195	9196	9196	he	371	“ No data yet , ”
+9199	9219	9196	9196	he	371	“ It is a capital mistake to theorize before you have all the evidence . It biases the judgment . ”
+9220	9228	9229	9229	I	0	“ You will have your data soon , ”
+9237	9258	9229	9229	I	0	“ this is the Brixton Road , and that is the house , if I am not very much mistaken . ”
+9259	9270	9283	9283	he	371	“ So it is . Stop , driver , stop ! ”
+9357	9360	9749	9749	he	395	“ To Let ”
+9738	9748	9749	9749	he	395	“ It is indeed kind of you to come , ”
+9752	9760	9766	9767	my friend	363	“ I have had everything left untouched . ”
+9761	9765	9766	9767	my friend	363	“ Except that ! ”
+9775	9811	9825	9826	the detective	399	“ If a herd of buffaloes had passed along there could not be a greater mess . No doubt , however , you had drawn your own conclusions , Gregson , before you permitted this . ”
+9812	9824	9825	9826	the detective	399	“ I have had so much to do inside the house , ”
+9830	9850	9888	9888	he	119	“ My colleague , Mr. Lestrade , is here . I had relied upon him to look after this . ”
+9861	9887	9915	9915	he	119	“ With two such men as yourself and Lestrade upon the ground , there will not be much for a third party to find out , ”
+9902	9914	9915	9915	he	119	“ I think we have done all that can be done , ”
+9918	9935	9948	9949	Sherlock Holmes	119	“ it ’s a queer case though , and I knew your taste for such things . ”
+9936	9946	9915	9915	he	119	“ You did not come here in a cab ? ”
+9951	9956	9915	9915	he	119	“ No , sir . ”
+9957	9961	9915	9915	he	119	“ Nor Lestrade ? ”
+9962	9967	9984	9984	he	119	“ No , sir . ”
+9968	9979	10496	10496	he	135	“ Then let us go and look at the room . ”
+10485	10495	10496	10496	he	135	“ This case will make a stir , sir , ”
+10499	10513	10522	10522	Gregson	121	“ It beats anything I have seen , and I am no chicken . ”
+10514	10520	10532	10532	Lestrade	135	“ There is no clue ? ”
+10524	10529	10560	10560	he	119	“ None at all , ”
+10549	10559	10581	10582	both detectives	414	“ You are sure that there is no wound ? ”
+10576	10579	10672	10672	he	135	“ Positive ! ”
+10584	10639	10672	10672	he	135	“ Then , of course , this blood belongs to a second individual — presumably the murderer , if murder has been committed . It reminds me of the circumstances attendant on the death of Van Jansen , in Utrecht , in the year ‘ 34 . Do you remember the case , Gregson ? ”
+10640	10645	10672	10672	he	135	“ No , sir . ”
+10646	10670	10765	10765	he	135	“ Read it up — you really should . There is nothing new under the sun . It has all been done before . ”
+10755	10764	10735	10735	he	135	“ He has not been moved at all ? ”
+10768	10781	10793	10793	he	135	“ No more than was necessary for the purposes of our examination . ”
+10782	10792	10793	10793	he	135	“ You can take him to the mortuary now , ”
+10796	10805	10869	10869	he	135	“ There is nothing more to be learned . ”
+10860	10868	10869	10869	he	135	“ There ’s been a woman here , ”
+10872	10882	10936	10936	Gregson	121	“ It ’s a woman ’s wedding - ring . ”
+10929	10934	10936	10936	Gregson	121	“ This complicates matters , ”
+10938	10948	10961	10961	Holmes	119	“ Heaven knows , they were complicated enough before . ”
+10949	10959	10961	10961	Holmes	119	“ You ’re sure it does n’t simplify them ? ”
+10963	10983	10993	10993	Gregson	121	“ There ’s nothing to be learned by staring at it . What did you find in his pockets ? ”
+10984	10991	10993	10993	Gregson	121	“ We have it all here , ”
+11011	11130	10961	10961	Holmes	119	“ A gold watch , No . 97163 , by Barraud , of London . Gold Albert chain , very heavy and solid . Gold ring , with masonic device . Gold pin — bull - dog ’s head , with rubies as eyes . Russian leather card - case , with cards of Enoch J. Drebber of Cleveland , corresponding with the E. J. D. upon the linen . No purse , but loose money to the extent of seven pounds thirteen . Pocket edition of Boccaccio ’s _ Decameron _ , with name of Joseph Stangerson upon the fly - leaf . Two letters — one addressed to E. J. Drebber and one to Joseph Stangerson . ”
+11131	11136	10993	10993	Gregson	121	“ At what address ? ”
+11137	11185	10961	10961	Holmes	119	“ American Exchange , Strand — to be left till called for . They are both from the Guion Steamship Company , and refer to the sailing of their boats from Liverpool . It is clear that this unfortunate man was about to return to New York . ”
+11186	11199	11211	11211	Gregson	121	“ Have you made any inquiries as to this man , Stangerson ? ”
+11200	11209	11211	11211	Gregson	121	“ I did it at once , sir , ”
+11213	11243	10961	10961	Holmes	119	“ I have had advertisements sent to all the newspapers , and one of my men has gone to the American Exchange , but he has not returned yet . ”
+11244	11251	11211	11211	Gregson	121	“ Have you sent to Cleveland ? ”
+11252	11258	10961	10961	Holmes	119	“ We telegraphed this morning . ”
+11259	11267	11211	11211	Gregson	121	“ How did you word your inquiries ? ”
+11268	11290	10961	10961	Holmes	119	“ We simply detailed the circumstances , and said that we should be glad of any information which could help us . ”
+11291	11309	11211	11211	Gregson	121	“ You did not ask for particulars on any point which appeared to you to be crucial ? ”
+11310	11316	10961	10961	Holmes	119	“ I asked about Stangerson . ”
+11317	11340	11353	11353	Gregson	121	“ Nothing else ? Is there no circumstance on which this whole case appears to hinge ? Will you not telegraph again ? ”
+11341	11351	11418	11418	he	135	“ I have said all I have to say , ”
+11413	11417	11418	11418	he	135	“ Mr. Gregson , ”
+11421	11451	11486	11486	he	426	“ I have just made a discovery of the highest importance , and one which would have been overlooked had I not made a careful examination of the walls . ”
+11481	11485	11486	11486	he	426	“ Come here , ”
+11509	11515	11537	11537	he	426	“ Now , stand there ! ”
+11531	11536	11604	11605	the detective	399	“ Look at that ! ”
+11594	11602	11611	11612	a showman	432	“ What do you think of that ? ”
+11617	11721	11739	11739	Gregson	146	“ This was overlooked because it was in the darkest corner of the room , and no one thought of looking there . The murderer has written it with his or her own blood . See this smear where it has trickled down the wall ! That disposes of the idea of suicide anyhow . Why was that corner chosen to write it on ? I will tell you . See that candle on the mantelpiece . It was lit at the time , and if it was lit this corner would be the brightest instead of the darkest portion of the wall . ”
+11722	11737	11611	11612	a showman	432	“ And what does it mean now that you _ have _ found it ? ”
+11745	11841	11851	11852	my companion	271	“ Mean ? Why , it means that the writer was going to put the female name Rachel , but was disturbed before he or she had time to finish . You mark my words , when this case comes to be cleared up you will find that a woman named Rachel has something to do with it . It ’s all very well for you to laugh , Mr. Sherlock Holmes . You may be very smart and clever , but the old hound is the best , when all is said and done . ”
+11842	11849	11851	11852	my companion	271	“ I really beg your pardon ! ”
+11870	11932	12195	12195	he	426	“ You certainly have the credit of being the first of us to find this out , and , as you say , it bears every mark of having been written by the other participant in last night ’s mystery . I have not had time to examine this room yet , but with your permission I shall do so now . ”
+12181	12194	12195	12195	he	426	“ They say that genius is an infinite capacity for taking pains , ”
+12201	12217	12278	12278	they	438	“ It ’s a very bad definition , but it does apply to detective work . ”
+12267	12277	12305	12306	my friend	363	“ What do you think of it , sir ? ”
+12282	12303	12305	12306	my friend	363	“ It would be robbing you of the credit of the case if I was to presume to help you , ”
+12308	12326	12353	12353	he	426	“ You are doing so well now that it would be a pity for anyone to interfere . ”
+12340	12352	12353	12353	he	426	“ If you will let me know how your investigations go , ”
+12356	12394	12408	12408	he	135	“ I shall be happy to give you any help I can . In the meantime I should like to speak to the constable who found the body . Can you give me his name and address ? ”
+12403	12407	12408	12408	he	135	“ John Rance , ”
+12411	12432	12448	12448	he	135	“ He is off duty now . You will find him at 46 , Audley Court , Kennington Park Gate . ”
+12441	12447	12475	12475	he	135	“ Come along , Doctor , ”
+12451	12474	12475	12475	he	135	“ we shall go and look him up . I ’ll tell you one thing which may help you in the case , ”
+12484	12602	12629	12630	the former	443	“ There has been murder done , and the murderer was a man . He was more than six feet high , was in the prime of life , had small feet for his height , wore coarse , square - toed boots and smoked a Trichinopoly cigar . He came here with his victim in a four - wheeled cab , which was drawn by a horse with three old shoes and one new one on his off fore leg . In all probability the murderer had a florid face , and the finger - nails of his right hand were remarkably long . These are only a few indications , but they may assist you . ”
+12615	12627	12637	12638	Sherlock Holmes	119	“ If this man was murdered , how was it done ? ”
+12632	12635	12653	12653	he	119	“ Poison , ”
+12645	12652	12653	12653	he	119	“ One other thing , Lestrade , ”
+12662	12686	12777	12777	he	119	“ ‘ Rache , ’ is the German for ‘ revenge ; ’ so do n’t lose your time looking for Miss Rachel . ”
+12767	12776	12777	12777	he	119	“ There is nothing like first hand evidence , ”
+12780	12811	12821	12821	I.	0	“ as a matter of fact , my mind is entirely made up upon the case , but still we may as well learn all that is to be learned . ”
+12812	12819	12821	12821	I.	0	“ You amaze me , Holmes , ”
+12822	12842	12853	12853	he	119	“ Surely you are not as sure as you pretend to be of all those particulars which you gave . ”
+12843	12852	12853	12853	he	119	“ There ’s no room for a mistake , ”
+12856	13010	13019	13019	I	0	“ The very first thing which I observed on arriving there was that a cab had made two ruts with its wheels close to the curb . Now , up to last night , we have had no rain for a week , so that those wheels which left such a deep impression must have been there during the night . There were the marks of the horse ’s hoofs , too , the outline of one of which was far more clearly cut than that of the other three , showing that that was a new shoe . Since the cab was there after the rain began , and was not there at any time during the morning — I have Gregson ’s word for that — it follows that it must have been there during the night , and , therefore , that it brought those two individuals to the house . ”
+13011	13017	13019	13019	I	0	“ That seems simple enough , ”
+13021	13031	12853	12853	he	119	“ but how about the other man ’s height ? ”
+13032	13143	13150	13150	I	0	“ Why , the height of a man , in nine cases out of ten , can be told from the length of his stride . It is a simple calculation enough , though there is no use my boring you with figures . I had this fellow ’s stride both on the clay outside and on the dust within . Then I had a way of checking my calculation . When a man writes on a wall , his instinct leads him to write about the level of his own eyes . Now that writing was just over six feet from the ground . It was child ’s play . ”
+13144	13149	12853	12853	he	119	“ And his age ? ”
+13153	13257	13267	13267	I	0	“ Well , if a man can stride four and a - half feet without the smallest effort , he ca n’t be quite in the sere and yellow . That was the breadth of a puddle on the garden walk which he had evidently walked across . Patent - leather boots had gone round , and Square - toes had hopped over . There is no mystery about it at all . I am simply applying to ordinary life a few of those precepts of observation and deduction which I advocated in that article . Is there anything else that puzzles you ? ”
+13258	13266	12853	12853	he	119	“ The finger nails and the Trichinopoly , ”
+13270	13412	13420	13420	I	0	“ The writing on the wall was done with a man ’s forefinger dipped in blood . My glass allowed me to observe that the plaster was slightly scratched in doing it , which would not have been the case if the man ’s nail had been trimmed . I gathered up some scattered ash from the floor . It was dark in colour and flakey — such an ash as is only made by a Trichinopoly . I have made a special study of cigar ashes — in fact , I have written a monograph upon the subject . I flatter myself that I can distinguish at a glance the ash of any known brand , either of cigar or of tobacco . It is just in such details that the skilled detective differs from the Gregson and Lestrade type . ”
+13413	13419	12853	12853	he	119	“ And the florid face ? ”
+13423	13457	13475	13475	I	0	“ Ah , that was a more daring shot , though I have no doubt that I was right . You must not ask me that at the present state of the affair . ”
+13466	13474	13475	13475	I	0	“ My head is in a whirl , ”
+13478	13592	13612	13612	he	271	“ the more one thinks of it the more mysterious it grows . How came these two men — if there were two men — into an empty house ? What has become of the cabman who drove them ? How could one man compel another to take poison ? Where did the blood come from ? What was the object of the murderer , since robbery had no part in it ? How came the woman ’s ring there ? Above all , why should the second man write up the German word RACHE before decamping ? I confess that I can not see any possible way of reconciling all these facts . ”
+13598	13611	13612	13612	he	271	“ You sum up the difficulties of the situation succinctly and well , ”
+13615	13796	13805	13805	I	0	“ There is much that is still obscure , though I have quite made up my mind on the main facts . As to poor Lestrade ’s discovery it was simply a blind intended to put the police upon a wrong track , by suggesting Socialism and secret societies . It was not done by a German . The A , if you noticed , was printed somewhat after the German fashion . Now , a real German invariably prints in the Latin character , so that we may safely say that this was not written by one , but by a clumsy imitator who overdid his part . It was simply a ruse to divert inquiry into a wrong channel . I ’m not going to tell you much more of the case , Doctor . You know a conjuror gets no credit when once he has explained his trick , and if I show you too much of my method of working , you will come to the conclusion that I am a very ordinary individual after all . ”
+13797	13804	13805	13805	I	0	“ I shall never do that , ”
+13808	13828	13885	13885	he	271	“ you have brought detection as near an exact science as it ever will be brought in this world . ”
+13875	13884	13885	13885	he	271	“ I ’ll tell you one other thing , ”
+13888	14066	14116	14116	he	458	“ Patent - leathers and Square - toes came in the same cab , and they walked down the pathway together as friendly as possible — arm - in - arm , in all probability . When they got inside they walked up and down the room — or rather , Patent - leathers stood still while Square - toes walked up and down . I could read all that in the dust ; and I could read that as he walked he grew more and more excited . That is shown by the increased length of his strides . He was talking all the while , and working himself up , no doubt , into a fury . Then the tragedy occurred . I ’ve told you all I know myself now , for the rest is mere surmise and conjecture . We have a good working basis , however , on which to start . We must hurry up , for I want to go to Halle ’s concert to hear Norman Neruda this afternoon . ”
+14107	14115	14116	14116	he	458	“ That ’s Audley Court in there , ”
+14133	14144	14264	14264	he	463	“ You ’ll find me here when you come back . ”
+14254	14263	14299	14299	he	119	“ I made my report at the office , ”
+14282	14298	14316	14317	the constable	463	“ We thought that we should like to hear it all from your own lips , ”
+14302	14315	14316	14317	the constable	463	“ I shall be most happy to tell you anything I can , ”
+14328	14343	14378	14378	he	120	“ Just let us hear it all in your own way as it occurred . ”
+14367	14377	14378	14378	he	120	“ I ’ll tell it ye from the beginning , ”
+14381	14630	14645	14646	my companion	271	“ My time is from ten at night to six in the morning . At eleven there was a fight at the ‘ White Hart ’ ; but bar that all was quiet enough on the beat . At one o’clock it began to rain , and I met Harry Murcher — him who has the Holland Grove beat — and we stood together at the corner of Henrietta Street a - talkin ’ . Presently — maybe about two or a little after — I thought I would take a look round and see that all was right down the Brixton Road . It was precious dirty and lonely . Not a soul did I meet all the way down , though a cab or two went past me . I was a strollin ’ down , thinkin ’ between ourselves how uncommon handy a four of gin hot would be , when suddenly the glint of a light caught my eye in the window of that same house . Now , I knew that them two houses in Lauriston Gardens was empty on account of him that owns them who wo n’t have the drains seen to , though the very last tenant what lived in one of them died o ’ typhoid fever . I was knocked all in a heap therefore at seeing a light in the window , and I suspected as something was wrong . When I got to the door — — ”
+14631	14644	14645	14646	my companion	271	“ You stopped , and then walked back to the garden gate , ”
+14649	14657	14687	14687	he	120	“ What did you do that for ? ”
+14677	14686	14687	14687	he	120	“ Why , that ’s true , sir , ”
+14690	14811	14938	14939	John Rance	120	“ though how you come to know it , Heaven only knows . Ye see , when I got up to the door it was so still and so lonesome , that I thought I ’d be none the worse for some one with me . I ai n’t afeared of anything on this side o ’ the grave ; but I thought that maybe it was him that died o ’ the typhoid inspecting the drains what killed him . The thought gave me a kind o ’ turn , and I walked back to the gate to see if I could see Murcher ’s lantern , but there was n’t no sign of him nor of anyone else . ”
+14812	14821	14687	14687	he	120	“ There was no one in the street ? ”
+14822	14895	14938	14939	John Rance	120	“ Not a livin ’ soul , sir , nor as much as a dog . Then I pulled myself together and went back and pushed the door open . All was quiet inside , so I went into the room where the light was a - burnin ’ . There was a candle flickerin ’ on the mantelpiece — a red wax one — and by its light I saw — — ”
+14896	14937	14965	14965	he	120	“ Yes , I know all that you saw . You walked round the room several times , and you knelt down by the body , and then you walked through and tried the kitchen door , and then — — ”
+14954	14964	14965	14965	he	120	“ Where was you hid to see all that ? ”
+14968	14983	15008	15008	he	119	“ It seems to me that you knows a deal more than you should . ”
+14997	15007	15008	15008	he	119	“ Do n’t get arresting me for the murder , ”
+15011	15044	15045	15045	Rance	120	“ I am one of the hounds and not the wolf ; Mr. Gregson or Mr. Lestrade will answer for that . Go on , though . What did you do next ? ”
+15057	15079	15045	15045	Rance	120	“ I went back to the gate and sounded my whistle . That brought Murcher and two more to the spot . ”
+15080	15087	15045	15045	Rance	120	“ Was the street empty then ? ”
+15088	15106	15045	15045	Rance	120	“ Well , it was , as far as anybody that could be of any good goes . ”
+15107	15113	15136	15136	he	463	“ What do you mean ? ”
+15123	15135	15136	15136	he	463	“ I ’ve seen many a drunk chap in my time , ”
+15139	15204	15216	15217	Sherlock Holmes	119	“ but never anyone so cryin ’ drunk as that cove . He was at the gate when I came out , a - leanin ’ up agin the railings , and a - singin ’ at the pitch o ’ his lungs about Columbine ’s New - fangled Banner , or some such stuff . He could n’t stand , far less help . ”
+15205	15214	15242	15242	he	463	“ What sort of a man was he ? ”
+15230	15241	15242	15242	he	463	“ He was an uncommon drunk sort o ’ man , ”
+15245	15264	15278	15278	Holmes	119	“ He ’d ha ’ found hisself in the station if we had n’t been so took up . ”
+15265	15277	15278	15278	Holmes	119	“ His face — his dress — didn’t you notice them ? ”
+15283	15325	15333	15333	Holmes	119	“ I should think I did notice them , seeing that I had to prop him up — me and Murcher between us . He was a long chap , with a red face , the lower part muffled round — — ”
+15326	15331	15333	15333	Holmes	119	“ That will do , ”
+15335	15341	15355	15356	the policeman	469	“ What became of him ? ”
+15342	15354	15355	15356	the policeman	469	“ We ’d enough to do without lookin ’ after him , ”
+15364	15376	15278	15278	Holmes	119	“ I ’ll wager he found his way home all right . ”
+15377	15383	15355	15356	the policeman	469	“ How was he dressed ? ”
+15384	15389	15278	15278	Holmes	119	“ A brown overcoat . ”
+15390	15399	15355	15356	the policeman	469	“ Had he a whip in his hand ? ”
+15400	15406	15417	15418	my companion	271	“ A whip — no . ”
+15407	15415	15417	15418	my companion	271	“ He must have left it behind , ”
+15420	15434	15355	15356	the policeman	469	“ You did n’t happen to see or hear a cab after that ? ”
+15435	15438	15458	15458	his	271	“ No . ”
+15439	15449	15458	15458	his	271	“ There ’s a half - sovereign for you , ”
+15461	15549	15573	15573	Holmes	119	“ I am afraid , Rance , that you will never rise in the force . That head of yours should be for use as well as ornament . You might have gained your sergeant ’s stripes last night . The man whom you held in your hands is the man who holds the clue of this mystery , and whom we are seeking . There is no use of arguing about it now ; I tell you that it is so . Come along , Doctor . ”
+15567	15572	15573	15573	Holmes	119	“ The blundering fool , ”
+15586	15608	15550	15550	We	472	“ Just to think of his having such an incomparable bit of good luck , and not taking advantage of it . ”
+15609	15660	15573	15573	Holmes	119	“ I am rather in the dark still . It is true that the description of this man tallies with your idea of the second party in this mystery . But why should he come back to the house after leaving it ? That is not the way of criminals . ”
+15661	15840	16273	16273	he	1508	“ The ring , man , the ring : that was what he came back for . If we have no other way of catching him , we can always bait our line with the ring . I shall have him , Doctor — I’ll lay you two to one that I have him . I must thank you for it all . I might not have gone but for you , and so have missed the finest study I ever came across : a study in scarlet , eh ? Why should n’t we use a little art jargon . There ’s the scarlet thread of murder running through the colourless skein of life , and our duty is to unravel it , and isolate it , and expose every inch of it . And now for lunch , and then for Norman Neruda . Her attack and her bowing are splendid . What ’s that little thing of Chopin ’s she plays so magnificently : Tra - la - la - lira - lira - lay . ”
+16267	16272	16273	16273	he	1508	“ It was magnificent , ”
+16282	16348	16358	16358	I	0	“ Do you remember what Darwin says about music ? He claims that the power of producing and appreciating it existed among the human race long before the power of speech was arrived at . Perhaps that is why we are so subtly influenced by it . There are vague memories in our souls of those misty centuries when the world was in its childhood . ”
+16349	16357	16379	16379	he	1508	“ That ’s rather a broad idea , ”
+16361	16378	16379	16379	he	1508	“ One ’s ideas must be as broad as Nature if they are to interpret Nature , ”
+16382	16403	16414	16414	I	0	“ What ’s the matter ? You ’re not looking quite yourself . This Brixton Road affair has upset you . ”
+16404	16413	16414	16414	I	0	“ To tell the truth , it has , ”
+16417	16446	16379	16379	he	1508	“ I ought to be more case - hardened after my Afghan experiences . I saw my own comrades hacked to pieces at Maiwand without losing my nerve . ”
+16447	16480	16414	16414	I	0	“ I can understand . There is a mystery about this which stimulates the imagination ; where there is no imagination there is no horror . Have you seen the evening paper ? ”
+16481	16484	16379	16379	he	1508	“ No . ”
+16485	16529	16414	16414	I	0	“ It gives a fairly good account of the affair . It does not mention the fact that when the man was raised up , a woman ’s wedding ring fell upon the floor . It is just as well it does not . ”
+16530	16533	16541	16541	he	1508	“ Why ? ”
+16534	16540	16541	16541	he	1508	“ Look at this advertisement , ”
+16544	16559	16560	16560	He	1508	“ I had one sent to every paper this morning immediately after the affair . ”
+16582	16584	16414	16414	I	0	“ Found ”
+16587	16595	16414	16414	I	0	“ In Brixton Road , this morning , ”
+16599	16637	16646	16646	he	1508	“ a plain gold wedding ring , found in the roadway between the ‘ White Hart ’ Tavern and Holland Grove . Apply Dr. Watson , 221B , Baker Street , between eight and nine this evening . ”
+16638	16645	16646	16646	he	1508	“ Excuse my using your name , ”
+16649	16671	16679	16679	I	0	“ If I used my own some of these dunderheads would recognize it , and want to meddle in the affair . ”
+16672	16678	16679	16679	I	0	“ That is all right , ”
+16682	16693	16703	16703	he	1508	“ But supposing anyone applies , I have no ring . ”
+16694	16701	16703	16703	he	1508	“ Oh yes , you have , ”
+16709	16722	16646	16646	he	1508	“ This will do very well . It is almost a facsimile . ”
+16723	16734	16703	16703	he	1508	“ And who do you expect will answer this advertisement . ”
+16735	16765	16646	16646	he	1508	“ Why , the man in the brown coat — our florid friend with the square toes . If he does not come himself he will send an accomplice . ”
+16766	16776	16703	16703	he	1508	“ Would he not consider it as too dangerous ? ”
+16777	17018	17024	17024	I	0	“ Not at all . If my view of the case is correct , and I have every reason to believe that it is , this man would rather risk anything than lose the ring . According to my notion he dropped it while stooping over Drebber ’s body , and did not miss it at the time . After leaving the house he discovered his loss and hurried back , but found the police already in possession , owing to his own folly in leaving the candle burning . He had to pretend to be drunk in order to allay the suspicions which might have been aroused by his appearance at the gate . Now put yourself in that man ’s place . On thinking the matter over , it must have occurred to him that it was possible that he had lost the ring in the road after leaving the house . What would he do , then ? He would eagerly look out for the evening papers in the hope of seeing it among the articles found . His eye , of course , would light upon this . He would be overjoyed . Why should he fear a trap ? There would be no reason in his eyes why the finding of the ring should be connected with the murder . He would come . He will come . You shall see him within an hour ? ”
+17019	17023	16703	16703	he	1508	“ And then ? ”
+17027	17045	16703	16703	he	1508	“ Oh , you can leave me to deal with him then . Have you any arms ? ”
+17046	17058	16703	16703	he	1508	“ I have my old service revolver and a few cartridges . ”
+17059	17094	17137	17137	he	119	“ You had better clean it and load it . He will be a desperate man , and though I shall take him unawares , it is as well to be ready for anything . ”
+17131	17136	17137	17137	he	119	“ The plot thickens , ”
+17144	17166	17173	17173	I	0	“ I have just had an answer to my American telegram . My view of the case is the correct one . ”
+17167	17172	17189	17189	he	119	“ And that is ? ”
+17177	17188	17189	17189	he	119	“ My fiddle would be the better for new strings , ”
+17192	17229	17238	17238	I	0	“ Put your pistol in your pocket . When the fellow comes speak to him in an ordinary way . Leave the rest to me . Do n’t frighten him by looking at him too hard . ”
+17230	17237	17137	17137	he	119	“ It is eight o’clock now , ”
+17246	17326	17189	17189	he	119	“ Yes . He will probably be here in a few minutes . Open the door slightly . That will do . Now put the key on the inside . Thank you ! This is a queer old book I picked up at a stall yesterday—‘De Jure inter Gentes’—published in Latin at Liege in the Lowlands , in 1642 . Charles ’ head was still firm on his shoulders when this little brown - backed volume was struck off . ”
+17327	17333	17137	17137	he	119	“ Who is the printer ? ”
+17334	17398	17467	17468	the servant	495	“ Philippe de Croy , whoever he may have been . On the fly - leaf , in very faded ink , is written ‘ Ex libris Guliolmi Whyte . ’ I wonder who William Whyte was . Some pragmatical seventeenth century lawyer , I suppose . His writing has a legal twist about it . Here comes our man , I think . ”
+17447	17454	17534	17534	I	0	“ Does Dr. Watson live here ? ”
+17529	17533	17655	17655	she	506	“ Come in , ”
+17642	17654	17655	17655	she	506	“ It ’s this as has brought me , good gentlemen , ”
+17662	17756	17764	17764	I	0	“ a gold wedding ring in the Brixton Road . It belongs to my girl Sally , as was married only this time twelvemonth , which her husband is steward aboard a Union boat , and what he ’d say if he come ‘ ome and found her without her ring is more than I can think , he being short enough at the best o ’ times , but more especially when he has the drink . If it please you , she went to the circus last night along with — — ”
+17757	17763	17775	17777	the old woman	507	“ Is that her ring ? ”
+17767	17773	17775	17777	the old woman	507	“ The Lord be thanked ! ”
+17779	17794	17804	17804	I	0	“ Sally will be a glad woman this night . That ’s the ring . ”
+17795	17803	17775	17777	the old woman	507	“ And what may your address be ? ”
+17812	17826	17842	17843	Sherlock Holmes	119	“ 13 , Duncan Street , Houndsditch . A weary way from here . ”
+17827	17840	17876	17876	she	507	“ The Brixton Road does not lie between any circus and Houndsditch , ”
+17864	17875	17876	17876	she	507	“ The gentleman asked me for _ my _ address , ”
+17879	17892	17775	17777	the old woman	507	“ Sally lives in lodgings at 3 , Mayfield Place , Peckham . ”
+17893	17901	17876	17876	she	507	“ And your name is — — ? ”
+17902	17962	17973	17973	I	0	“ My name is Sawyer — her ’s is Dennis , which Tom Dennis married her — and a smart , clean lad , too , as long as he ’s at sea , and no steward in the company more thought of ; but when on shore , what with the women and what with liquor shops — — ”
+17963	17972	17973	17973	I	0	“ Here is your ring , Mrs. Sawyer , ”
+17985	18008	18073	18073	he	119	“ it clearly belongs to your daughter , and I am glad to be able to restore it to the rightful owner . ”
+18066	18072	18073	18073	he	119	“ I ’ll follow her , ”
+18078	18097	18148	18148	I	0	“ she must be an accomplice , and will lead me to him . Wait up for me . ”
+18139	18147	18148	18148	I	0	“ Either his whole theory is incorrect , ”
+18153	18168	18221	18221	I	0	“ or else he will be led now to the heart of the mystery . ”
+18237	18242	18357	18357	he	119	“ Vie de Bohème . ”
+18342	18356	18357	18357	he	119	“ I would n’t have the Scotland Yarders know it for the world , ”
+18365	18406	18414	18414	I	0	“ I have chaffed them so much that they would never have let me hear the end of it . I can afford to laugh , because I know that I will be even with them in the long run . ”
+18407	18413	18357	18357	he	119	“ What is it then ? ”
+18417	18718	18728	18728	I	0	“ Oh , I do n’t mind telling a story against myself . That creature had gone a little way when she began to limp and show every sign of being foot - sore . Presently she came to a halt , and hailed a four - wheeler which was passing . I managed to be close to her so as to hear the address , but I need not have been so anxious , for she sang it out loud enough to be heard at the other side of the street , ‘ Drive to 13 , Duncan Street , Houndsditch , ’ she cried . This begins to look genuine , I thought , and having seen her safely inside , I perched myself behind . That ’s an art which every detective should be an expert at . Well , away we rattled , and never drew rein until we reached the street in question . I hopped off before we came to the door , and strolled down the street in an easy , lounging way . I saw the cab pull up . The driver jumped down , and I saw him open the door and stand expectantly . Nothing came out though . When I reached him he was groping about frantically in the empty cab , and giving vent to the finest assorted collection of oaths that ever I listened to . There was no sign or trace of his passenger , and I fear it will be some time before he gets his fare . On inquiring at Number 13 we found that the house belonged to a respectable paperhanger , named Keswick , and that no one of the name either of Sawyer or Dennis had ever been heard of there . ”
+18719	18727	18728	18728	I	0	“ You do n’t mean to say , ”
+18734	18765	18774	18775	Sherlock Holmes	119	“ that that tottering , feeble old woman was able to get out of the cab while it was in motion , without either you or the driver seeing her ? ”
+18766	18772	18774	18775	Sherlock Holmes	119	“ Old woman be damned ! ”
+18779	18887	18975	18975	they	521	“ We were the old women to be so taken in . It must have been a young man , and an active one , too , besides being an incomparable actor . The get - up was inimitable . He saw that he was followed , no doubt , and used this means of giving me the slip . It shows that the man we are after is not as lonely as I imagined he was , but has friends who are ready to risk something for him . Now , Doctor , you are looking done - up . Take my advice and turn in . ”
+18969	18973	19553	19553	I	0	“ Brixton Mystery , ”
+19571	19589	19553	19553	I	0	“ I told you that , whatever happened , Lestrade and Gregson would be sure to score . ”
+19590	19599	19553	19553	I	0	“ That depends on how it turns out . ”
+19600	19677	19686	19686	I	0	“ Oh , bless you , it does n’t matter in the least . If the man is caught , it will be _ on account _ of their exertions ; if he escapes , it will be _ in spite _ of their exertions . It ’s heads I win and tails you lose . Whatever they do , they will have followers . ‘ Un sot trouve toujours un plus sot qui l’admire . ’ ”
+19678	19685	19743	19743	he	271	“ What on earth is this ? ”
+19721	19734	19774	19774	Holmes	119	“ It ’s the Baker Street division of the detective police force , ”
+19768	19772	19782	19786	the six dirty little scoundrels	563	“ ‘ Tention ! ”
+19797	19827	19838	19841	one of the youths	564	“ In future you shall send up Wiggins alone to report , and the rest of you must wait in the street . Have you found it , Wiggins ? ”
+19828	19836	19864	19864	He	119	“ No , sir , we hain’t , ”
+19843	19863	19890	19890	He	119	“ I hardly expected you would . You must keep on until you do . Here are your wages . ”
+19872	19889	19942	19942	Holmes	119	“ Now , off you go , and come back with a better report next time . ”
+19917	19941	19942	19942	Holmes	119	“ There ’s more work to be got out of one of those little beggars than out of a dozen of the force , ”
+19945	19986	20001	20001	I	0	“ The mere sight of an official - looking person seals men ’s lips . These youngsters , however , go everywhere and hear everything . They are as sharp as needles , too ; all they want is organisation . ”
+19987	20000	19942	19942	Holmes	119	“ Is it on this Brixton case that you are employing them ? ”
+20004	20073	20118	20118	he	569	“ Yes ; there is a point which I wish to ascertain . It is merely a matter of time . Hullo ! we are going to hear some news now with a vengeance ! Here is Gregson coming down the road with beatitude written upon every feature of his face . Bound for us , I know . Yes , he is stopping . There he is ! ”
+20112	20117	20118	20118	he	569	“ My dear fellow , ”
+20127	20142	20171	20171	he	569	“ congratulate me ! I have made the whole thing as clear as day . ”
+20158	20170	20118	20118	he	569	“ Do you mean that you are on the right track ? ”
+20174	20192	20228	20229	Sherlock Holmes	119	“ The right track ! Why , sir , we have the man under lock and key . ”
+20193	20199	20215	20215	Gregson	146	“ And his name is ? ”
+20200	20213	20255	20255	he	119	“ Arthur Charpentier , sub - lieutenant in Her Majesty ’s navy , ”
+20242	20254	20255	20255	he	119	“ Take a seat , and try one of these cigars , ”
+20258	20277	20288	20289	the detective	399	“ We are anxious to know how you managed it . Will you have some whiskey and water ? ”
+20278	20287	20288	20289	the detective	399	“ I do n’t mind if I do , ”
+20292	20345	20356	20356	Holmes	119	“ The tremendous exertions which I have gone through during the last day or two have worn me out . Not so much bodily exertion , you understand , as the strain upon the mind . You will appreciate that , Mr. Sherlock Holmes , for we are both brain - workers . ”
+20346	20354	20356	20356	Holmes	119	“ You do me too much honour , ”
+20360	20373	20411	20411	he	399	“ Let us hear how you arrived at this most gratifying result . ”
+20403	20410	20411	20411	he	399	“ The fun of it is , ”
+20414	20469	20393	20393	he	399	“ that that fool Lestrade , who thinks himself so smart , has gone off upon the wrong track altogether . He is after the secretary Stangerson , who had no more to do with the crime than the babe unborn . I have no doubt that he has caught him by this time . ”
+20483	20492	20596	20596	Gregson	121	“ And how did you get your clue ? ”
+20493	20575	20581	20581	Holmes	119	“ Ah , I ’ll tell you all about it . Of course , Doctor Watson , this is strictly between ourselves . The first difficulty which we had to contend with was the finding of this American ’s antecedents . Some people would have waited until their advertisements were answered , or until parties came forward and volunteered information . That is not Tobias Gregson ’s way of going to work . You remember the hat beside the dead man ? ”
+20576	20579	20581	20581	Holmes	119	“ Yes , ”
+20583	20595	20614	20614	he	121	“ by John Underwood and Sons , 129 , Camberwell Road . ”
+20603	20613	20614	20614	he	121	“ I had no idea that you noticed that , ”
+20617	20623	20596	20596	Gregson	121	“ Have you been there ? ”
+20624	20627	20633	20633	Gregson	121	“ No . ”
+20628	20631	20633	20633	Gregson	121	“ Ha ! ”
+20640	20654	20667	20667	Holmes	119	“ you should never neglect a chance , however small it may seem . ”
+20655	20665	20633	20633	Gregson	121	“ To a great mind , nothing is little , ”
+20671	20734	20743	20744	Sherlock Holmes	119	“ Well , I went to Underwood , and asked him if he had sold a hat of that size and description . He looked over his books , and came on it at once . He had sent the hat to a Mr. Drebber , residing at Charpentier ’s Boarding Establishment , Torquay Terrace . Thus I got at his address . ”
+20735	20741	20756	20757	the detective	399	“ Smart — very smart ! ”
+20746	20754	20756	20757	the detective	399	“ I next called upon Madame Charpentier , ”
+20759	20865	20633	20633	Gregson	121	“ I found her very pale and distressed . Her daughter was in the room , too — an uncommonly fine girl she is , too ; she was looking red about the eyes and her lips trembled as I spoke to her . That did n’t escape my notice . I began to smell a rat . You know the feeling , Mr. Sherlock Holmes , when you come upon the right scent — a kind of thrill in your nerves . ‘ Have you heard of the mysterious death of your late boarder Mr. Enoch J. Drebber , of Cleveland ? ’ I asked .
+20866	20901	20756	20757	the detective	399	“ The mother nodded . She did n’t seem able to get out a word . The daughter burst into tears . I felt more than ever that these people knew something of the matter .
+20902	20920	20633	20633	Gregson	121	“ ‘ At what o’clock did Mr. Drebber leave your house for the train ? ’ I asked .
+20921	20970	20756	20757	the detective	399	“ ‘ At eight o’clock , ’ she said , gulping in her throat to keep down her agitation . ‘ His secretary , Mr. Stangerson , said that there were two trains — one at 9.15 and one at 11 . He was to catch the first . ’
+20971	20984	20633	20633	Gregson	121	“ ‘ And was that the last which you saw of him ? ’
+20985	21032	20756	20757	the detective	399	“ A terrible change came over the woman ’s face as I asked the question . Her features turned perfectly livid . It was some seconds before she could get out the single word ‘ Yes’—and when it did come it was in a husky unnatural tone .
+21033	21051	20633	20633	Gregson	121	“ There was silence for a moment , and then the daughter spoke in a calm clear voice .
+21052	21086	20756	20757	the detective	399	“ ‘ No good can ever come of falsehood , mother , ’ she said . ‘ Let us be frank with this gentleman . We _ did _ see Mr. Drebber again . ’
+21087	21116	20633	20633	Gregson	121	“ ‘ God forgive you ! ’ cried Madame Charpentier , throwing up her hands and sinking back in her chair . ‘ You have murdered your brother . ’
+21117	21133	20756	20757	the detective	399	“ ‘ Arthur would rather that we spoke the truth , ’ the girl answered firmly .
+21134	21172	20633	20633	Gregson	121	“ ‘ You had best tell me all about it now , ’ I said . ‘ Half - confidences are worse than none . Besides , you do not know how much we know of it . ’
+21173	21281	20756	20757	the detective	399	“ ‘ On your head be it , Alice ! ’ cried her mother ; and then , turning to me , ‘ I will tell you all , sir . Do not imagine that my agitation on behalf of my son arises from any fear lest he should have had a hand in this terrible affair . He is utterly innocent of it . My dread is , however , that in your eyes and in the eyes of others he may appear to be compromised . That however is surely impossible . His high character , his profession , his antecedents would all forbid it . ’
+21282	21318	20633	20633	Gregson	121	“ ‘ Your best way is to make a clean breast of the facts , ’ I answered . ‘ Depend upon it , if your son is innocent he will be none the worse . ’
+21319	21390	20756	20757	the detective	399	“ ‘ Perhaps , Alice , you had better leave us together , ’ she said , and her daughter withdrew . ‘ Now , sir , ’ she continued , ‘ I had no intention of telling you all this , but since my poor daughter has disclosed it I have no alternative . Having once decided to speak , I will tell you all without omitting any particular . ’
+21391	21401	20633	20633	Gregson	121	“ ‘ It is your wisest course , ’ said I.
+21402	21432	20756	20757	the detective	399	“ ‘ Mr. Drebber has been with us nearly three weeks . He and his secretary , Mr. Stangerson , had been travelling on the Continent . I noticed a “
+21434	21599	20633	20633	Gregson	121	” label upon each of their trunks , showing that that had been their last stopping place . Stangerson was a quiet reserved man , but his employer , I am sorry to say , was far otherwise . He was coarse in his habits and brutish in his ways . The very night of his arrival he became very much the worse for drink , and , indeed , after twelve o’clock in the day he could hardly ever be said to be sober . His manners towards the maid - servants were disgustingly free and familiar . Worst of all , he speedily assumed the same attitude towards my daughter , Alice , and spoke to her more than once in a way which , fortunately , she is too innocent to understand . On one occasion he actually seized her in his arms and embraced her — an outrage which caused his own secretary to reproach him for his unmanly conduct . ’
+21600	21629	20756	20757	the detective	399	“ ‘ But why did you stand all this , ’ I asked . ‘ I suppose that you can get rid of your boarders when you wish . ’
+21630	21747	20633	20633	Gregson	121	“ Mrs. Charpentier blushed at my pertinent question . ‘ Would to God that I had given him notice on the very day that he came , ’ she said . ‘ But it was a sore temptation . They were paying a pound a day each — fourteen pounds a week , and this is the slack season . I am a widow , and my boy in the Navy has cost me much . I grudged to lose the money . I acted for the best . This last was too much , however , and I gave him notice to leave on account of it . That was the reason of his going . ’
+21748	21752	20756	20757	the detective	399	“ ‘ Well ? ’
+21753	21902	20756	20757	the detective	399	“ ‘ My heart grew light when I saw him drive away . My son is on leave just now , but I did not tell him anything of all this , for his temper is violent , and he is passionately fond of his sister . When I closed the door behind them a load seemed to be lifted from my mind . Alas , in less than an hour there was a ring at the bell , and I learned that Mr. Drebber had returned . He was much excited , and evidently the worse for drink . He forced his way into the room , where I was sitting with my daughter , and made some incoherent remark about having missed his train . He then turned to Alice , and before my very face , proposed to her that she should fly with him . “
+21908	21912	22047	22047	I	0	” he said , “
+21953	22046	22064	22064	I	0	” Poor Alice was so frightened that she shrunk away from him , but he caught her by the wrist and endeavoured to draw her towards the door . I screamed , and at that moment my son Arthur came into the room . What happened then I do not know . I heard oaths and the confused sounds of a scuffle . I was too terrified to raise my head . When I did look up I saw Arthur standing in the doorway laughing , with a stick in his hand . “
+22059	22063	22064	22064	I	0	” he said . “
+22078	22105	22187	22188	the detective	399	” With those words he took his hat and started off down the street . The next morning we heard of Mr. Drebber ’s mysterious death . ’
+22106	22158	22167	22168	Sherlock Holmes	119	“ This statement came from Mrs. Charpentier ’s lips with many gasps and pauses . At times she spoke so low that I could hardly catch the words . I made shorthand notes of all that she said , however , so that there should be no possibility of a mistake . ”
+22159	22165	22167	22168	Sherlock Holmes	119	“ It ’s quite exciting , ”
+22174	22179	22187	22188	the detective	399	“ What happened next ? ”
+22180	22186	22187	22188	the detective	399	“ When Mrs. Charpentier paused , ”
+22191	22228	22187	22188	the detective	399	“ I saw that the whole case hung upon one point . Fixing her with my eye in a way which I always found effective with women , I asked her at what hour her son returned .
+22229	22239	22187	22188	the detective	399	“ ‘ I do not know , ’ she answered .
+22240	22245	22187	22188	the detective	399	“ ‘ Not know ? ’
+22246	22263	22187	22188	the detective	399	“ ‘ No ; he has a latch - key , and he let himself in . ’
+22264	22272	22187	22188	the detective	399	“ ‘ After you went to bed ? ’
+22273	22277	22187	22188	the detective	399	“ ‘ Yes . ’
+22278	22287	22187	22188	the detective	399	“ ‘ When did you go to bed ? ’
+22288	22293	22187	22188	the detective	399	“ ‘ About eleven . ’
+22294	22306	22187	22188	the detective	399	“ ‘ So your son was gone at least two hours ? ’
+22307	22311	22187	22188	the detective	399	“ ‘ Yes . ’
+22312	22319	22187	22188	the detective	399	“ ‘ Possibly four or five ? ’
+22320	22324	22187	22188	the detective	399	“ ‘ Yes . ’
+22325	22335	22187	22188	the detective	399	“ ‘ What was he doing during that time ? ’
+22336	22353	22187	22188	the detective	399	“ ‘ I do not know , ’ she answered , turning white to her very lips .
+22354	22452	22458	22458	Holmes	119	“ Of course after that there was nothing more to be done . I found out where Lieutenant Charpentier was , took two officers with me , and arrested him . When I touched him on the shoulder and warned him to come quietly with us , he answered us as bold as brass , ‘ I suppose you are arresting me for being concerned in the death of that scoundrel Drebber , ’ he said . We had said nothing to him about it , so that his alluding to it had a most suspicious aspect . ”
+22453	22456	22187	22188	the detective	399	“ Very , ”
+22460	22488	22187	22188	the detective	399	“ He still carried the heavy stick which the mother described him as having with him when he followed Drebber . It was a stout oak cudgel . ”
+22489	22497	22187	22188	the detective	399	“ What is your theory , then ? ”
+22498	22616	22623	22623	Holmes	119	“ Well , my theory is that he followed Drebber as far as the Brixton Road . When there , a fresh altercation arose between them , in the course of which Drebber received a blow from the stick , in the pit of the stomach , perhaps , which killed him without leaving any mark . The night was so wet that no one was about , so Charpentier dragged the body of his victim into the empty house . As to the candle , and the blood , and the writing on the wall , and the ring , they may all be so many tricks to throw the police on to the wrong scent . ”
+22617	22621	22623	22623	Holmes	119	“ Well done ! ”
+22629	22647	22661	22662	the detective	399	“ Really , Gregson , you are getting along . We shall make something of you yet . ”
+22648	22660	22661	22662	the detective	399	“ I flatter myself that I have managed it rather neatly , ”
+22666	22789	22900	22900	he	135	“ The young man volunteered a statement , in which he said that after following Drebber some time , the latter perceived him , and took a cab in order to get away from him . On his way home he met an old shipmate , and took a long walk with him . On being asked where this old shipmate lived , he was unable to give any satisfactory reply . I think the whole case fits together uncommonly well . What amuses me is to think of Lestrade , who had started off upon the wrong scent . I am afraid he wo n’t make much of it . Why , by Jove , here ’s the very man himself ! ”
+22891	22899	22900	22900	he	135	“ This is a most extraordinary case , ”
+22903	22908	22922	22922	Gregson	121	last—“a most incomprehensible affair . ”
+22909	22920	22922	22922	Gregson	121	“ Ah , you find it so , Mr. Lestrade ! ”
+22926	22948	22959	22959	Lestrade	135	“ I thought you would come to that conclusion . Have you managed to find the Secretary , Mr. Joseph Stangerson ? ”
+22949	22957	22959	22959	Lestrade	135	“ The Secretary , Mr. Joseph Stangerson , ”
+22962	22976	23049	23049	he	119	“ was murdered at Halliday ’s Private Hotel about six o’clock this morning . ”
+23044	23048	23049	23049	he	119	“ Stangerson too ! ”
+23052	23057	23068	23068	Lestrade	135	“ The plot thickens . ”
+23058	23066	23068	23068	Lestrade	135	“ It was quite thick enough before , ”
+23074	23088	23104	23104	Gregson	121	“ I seem to have dropped into a sort of council of war . ”
+23089	23102	23117	23117	Lestrade	135	“ Are you — are you sure of this piece of intelligence ? ”
+23106	23115	23117	23117	Lestrade	135	“ I have just come from his room , ”
+23119	23130	23144	23144	Holmes	119	“ I was the first to discover what had occurred . ”
+23131	23143	23144	23144	Holmes	119	“ We have been hearing Gregson ’s view of the matter , ”
+23147	23161	23169	23169	Lestrade	135	“ Would you mind letting us know what you have seen and done ? ”
+23162	23168	23169	23169	Lestrade	135	“ I have no objection , ”
+23175	23380	23397	23397	Holmes	119	“ I freely confess that I was of the opinion that Stangerson was concerned in the death of Drebber . This fresh development has shown me that I was completely mistaken . Full of the one idea , I set myself to find out what had become of the Secretary . They had been seen together at Euston Station about half - past eight on the evening of the third . At two in the morning Drebber had been found in the Brixton Road . The question which confronted me was to find out how Stangerson had been employed between 8.30 and the time of the crime , and what had become of him afterwards . I telegraphed to Liverpool , giving a description of the man , and warning them to keep a watch upon the American boats . I then set to work calling upon all the hotels and lodging - houses in the vicinity of Euston . You see , I argued that if Drebber and his companion had become separated , the natural course for the latter would be to put up somewhere in the vicinity for the night , and then to hang about the station again next morning . ”
+23381	23395	23169	23169	Lestrade	135	“ They would be likely to agree on some meeting - place beforehand , ”
+23399	23462	23169	23169	Lestrade	135	“ So it proved . I spent the whole of yesterday evening in making enquiries entirely without avail . This morning I began very early , and at eight o’clock I reached Halliday ’s Private Hotel , in Little George Street . On my enquiry as to whether a Mr. Stangerson was living there , they at once answered me in the affirmative .
+23463	23492	23169	23169	Lestrade	135	“ ‘ No doubt you are the gentleman whom he was expecting , ’ they said . ‘ He has been waiting for a gentleman for two days . ’
+23493	23503	23169	23169	Lestrade	135	“ ‘ Where is he now ? ’ I asked .
+23504	23520	23169	23169	Lestrade	135	“ ‘ He is upstairs in bed . He wished to be called at nine . ’
+23521	23536	23169	23169	Lestrade	135	“ ‘ I will go up and see him at once , ’ I said .
+23537	23808	23842	23842	he	119	“ It seemed to me that my sudden appearance might shake his nerves and lead him to say something unguarded . The Boots volunteered to show me the room : it was on the second floor , and there was a small corridor leading up to it . The Boots pointed out the door to me , and was about to go downstairs again when I saw something that made me feel sickish , in spite of my twenty years ’ experience . From under the door there curled a little red ribbon of blood , which had meandered across the passage and formed a little pool along the skirting at the other side . I gave a cry , which brought the Boots back . He nearly fainted when he saw it . The door was locked on the inside , but we put our shoulders to it , and knocked it in . The window of the room was open , and beside the window , all huddled up , lay the body of a man in his nightdress . He was quite dead , and had been for some time , for his limbs were rigid and cold . When we turned him over , the Boots recognized him at once as being the same gentleman who had engaged the room under the name of Joseph Stangerson . The cause of death was a deep stab in the left side , which must have penetrated the heart . And now comes the strangest part of the affair . What do you suppose was above the murdered man ? ”
+23830	23841	23852	23852	Lestrade	135	“ The word RACHE , written in letters of blood , ”
+23845	23850	23923	23923	Lestrade	135	“ That was it , ”
+23915	23921	23923	23923	Lestrade	135	“ The man was seen , ”
+23925	24117	24171	24171	he	119	“ A milk boy , passing on his way to the dairy , happened to walk down the lane which leads from the mews at the back of the hotel . He noticed that a ladder , which usually lay there , was raised against one of the windows of the second floor , which was wide open . After passing , he looked back and saw a man descend the ladder . He came down so quietly and openly that the boy imagined him to be some carpenter or joiner at work in the hotel . He took no particular notice of him , beyond thinking in his own mind that it was early for him to be at work . He has an impression that the man was tall , had a reddish face , and was dressed in a long , brownish coat . He must have stayed in the room some little time after the murder , for we found blood - stained water in the basin , where he had washed his hands , and marks on the sheets where he had deliberately wiped his knife . ”
+24153	24170	24118	24118	I	0	“ Did you find nothing in the room which could furnish a clue to the murderer ? ”
+24174	24279	24288	24288	Holmes	119	“ Nothing . Stangerson had Drebber ’s purse in his pocket , but it seems that this was usual , as he did all the paying . There was eighty odd pounds in it , but nothing had been taken . Whatever the motives of these extraordinary crimes , robbery is certainly not one of them . There were no papers or memoranda in the murdered man ’s pocket , except a single telegram , dated from Cleveland about a month ago , and containing the words , ‘ J. H. is in Europe . ’ There was no name appended to this message . ”
+24280	24287	24118	24118	I	0	“ And there was nothing else ? ”
+24291	24353	24372	24372	he	119	“ Nothing of any importance . The man ’s novel , with which he had read himself to sleep was lying upon the bed , and his pipe was on a chair beside him . There was a glass of water on the table , and on the window - sill a small chip ointment box containing a couple of pills . ”
+24366	24371	24372	24372	he	119	“ The last link , ”
+24377	24383	24402	24403	my companion	271	“ My case is complete . ”
+24393	24401	24402	24403	my companion	271	“ I have now in my hands , ”
+24408	24495	24503	24503	Lestrade	135	“ all the threads which have formed such a tangle . There are , of course , details to be filled in , but I am as certain of all the main facts , from the time that Drebber parted from Stangerson at the station , up to the discovery of the body of the latter , as if I had seen them with my own eyes . I will give you a proof of my knowledge . Could you lay your hand upon those pills ? ”
+24496	24501	24503	24503	Lestrade	135	“ I have them , ”
+24511	24563	24571	24571	Holmes	119	“ I took them and the purse and the telegram , intending to have them put in a place of safety at the Police Station . It was the merest chance my taking these pills , for I am bound to say that I do not attach any importance to them . ”
+24564	24569	24571	24571	Holmes	119	“ Give them here , ”
+24573	24578	24571	24571	Holmes	119	“ Now , Doctor , ”
+24583	24589	24632	24632	I	0	“ are those ordinary pills ? ”
+24614	24631	24641	24641	Holmes	119	“ From their lightness and transparency , I should imagine that they are soluble in water , ”
+24635	24639	24641	24641	Holmes	119	“ Precisely so , ”
+24643	24680	24753	24753	Holmes	119	“ Now would you mind going down and fetching that poor little devil of a terrier which has been bad so long , and which the landlady wanted you to put out of its pain yesterday . ”
+24739	24751	24759	24759	he	119	“ I will now cut one of these pills in two , ”
+24767	24816	24826	24826	Lestrade	135	“ One half we return into the box for future purposes . The other half I will place in this wine glass , in which is a teaspoonful of water . You perceive that our friend , the Doctor , is right , and that it readily dissolves . ”
+24817	24824	24826	24826	Lestrade	135	“ This may be very interesting , ”
+24843	24864	24921	24921	he	119	“ I can not see , however , what it has to do with the death of Mr. Joseph Stangerson . ”
+24865	24917	25100	25100	he	119	“ Patience , my friend , patience ! You will find in time that it has everything to do with it . I shall now add a little milk to make the mixture palatable , and on presenting it to the dog we find that he laps it up readily enough . ”
+25091	25099	25100	25100	he	119	“ It ca n’t be a coincidence , ”
+25118	25197	25291	25291	he	119	“ it is impossible that it should be a mere coincidence . The very pills which I suspected in the case of Drebber are actually found after the death of Stangerson . And yet they are inert . What can it mean ? Surely my whole chain of reasoning can not have been false . It is impossible ! And yet this wretched dog is none the worse . Ah , I have it ! I have it ! ”
+25283	25290	25291	25291	he	119	“ I should have more faith , ”
+25294	25366	25448	25448	Holmes	119	“ I ought to know by this time that when a fact appears to be opposed to a long train of deductions , it invariably proves to be capable of bearing some other interpretation . Of the two pills in that box one was of the most deadly poison , and the other was entirely harmless . I ought to have known that before ever I saw the box at all . ”
+25438	25446	25448	25448	Holmes	119	“ All this seems strange to you , ”
+25450	25631	25660	25660	he	146	“ because you failed at the beginning of the inquiry to grasp the importance of the single real clue which was presented to you . I had the good fortune to seize upon that , and everything which has occurred since then has served to confirm my original supposition , and , indeed , was the logical sequence of it . Hence things which have perplexed you and made the case more obscure , have served to enlighten me and to strengthen my conclusions . It is a mistake to confound strangeness with mystery . The most commonplace crime is often the most mysterious because it presents no new or special features from which deductions may be drawn . This murder would have been infinitely more difficult to unravel had the body of the victim been simply found lying in the roadway without any of those _ outré _ and sensational accompaniments which have rendered it remarkable . These strange details , far from making the case more difficult , have really had the effect of making it less so . ”
+25651	25659	25660	25660	he	146	“ Look here , Mr. Sherlock Holmes , ”
+25663	25807	25823	25823	Lestrade	135	“ we are all ready to acknowledge that you are a smart man , and that you have your own methods of working . We want something more than mere theory and preaching now , though . It is a case of taking the man . I have made my case out , and it seems I was wrong . Young Charpentier could not have been engaged in this second affair . Lestrade went after his man , Stangerson , and it appears that he was wrong too . You have thrown out hints here , and hints there , and seem to know more than we do , but the time has come when we feel that we have a right to ask you straight how much you do know of the business . Can you name the man who did it ? ”
+25808	25821	25823	25823	Lestrade	135	“ I can not help feeling that Gregson is right , sir , ”
+25825	25869	25879	25879	I	0	“ We have both tried , and we have both failed . You have remarked more than once since I have been in the room that you had all the evidence which you require . Surely you will not withhold it any longer . ”
+25870	25878	25879	25879	I	0	“ Any delay in arresting the assassin , ”
+25882	25893	25946	25946	he	119	“ might give him time to perpetrate some fresh atrocity . ”
+25937	25945	25946	25946	he	119	“ There will be no more murders , ”
+25957	26215	26307	26307	he	607	“ You can put that consideration out of the question . You have asked me if I know the name of the assassin . I do . The mere knowing of his name is a small thing , however , compared with the power of laying our hands upon him . This I expect very shortly to do . I have good hopes of managing it through my own arrangements ; but it is a thing which needs delicate handling , for we have a shrewd and desperate man to deal with , who is supported , as I have had occasion to prove , by another who is as clever as himself . As long as this man has no idea that anyone can have a clue there is some chance of securing him ; but if he had the slightest suspicion , he would change his name , and vanish in an instant among the four million inhabitants of this great city . Without meaning to hurt either of your feelings , I am bound to say that I consider these men to be more than a match for the official force , and that is why I have not asked your assistance . If I fail I shall , of course , incur all the blame due to this omission ; but that I am prepared for . At present I am ready to promise that the instant that I can communicate with you without endangering my own combinations , I shall do so . ”
+26301	26306	26307	26307	he	607	“ Please , sir , ”
+26314	26321	26328	26328	Holmes	119	“ I have the cab downstairs . ”
+26322	26326	26345	26345	he	119	“ Good boy , ”
+26332	26344	26345	26345	he	119	“ Why do n’t you introduce this pattern at Scotland Yard ? ”
+26358	26372	26383	26383	Lestrade	135	“ See how beautifully the spring works . They fasten in an instant . ”
+26373	26381	26383	26383	Lestrade	135	“ The old pattern is good enough , ”
+26385	26398	26408	26408	Holmes	119	“ if we can only find the man to put them on . ”
+26399	26406	26408	26408	Holmes	119	“ Very good , very good , ”
+26412	26433	26510	26510	he	271	“ The cabman may as well help me with my boxes . Just ask him to step up , Wiggins . ”
+26497	26509	26571	26571	he	119	“ Just give me a help with this buckle , cabman , ”
+26567	26570	26571	26571	he	119	“ Gentlemen , ”
+26578	26598	26882	26883	Sherlock Holmes	119	“ let me introduce you to Mr. Jefferson Hope , the murderer of Enoch Drebber and of Joseph Stangerson . ”
+26874	26880	26902	26902	he	119	“ We have his cab , ”
+26885	26901	26902	26902	he	119	“ It will serve to take him to Scotland Yard . And now , gentlemen , ”
+26910	26949	27857	27857	he	1508	“ we have reached the end of our little mystery . You are very welcome to put any questions that you like to me now , and there is no danger that I will refuse to answer them . ”
+27839	27856	28009	28009	he	1508	“ Why not here , as well as in a feather bed , twenty years hence , ”
+27971	27977	27990	27991	the man	1508	“ You ’ve hurt me ! ”
+27984	27989	27990	27991	the man	1508	“ Have I though , ”
+27995	28005	28081	28081	she	671	“ I did n’t go for to do it . ”
+28069	28075	28106	28106	she	671	“ How is it now ? ”
+28097	28105	28106	28106	she	671	“ Kiss it and make it well , ”
+28121	28134	28081	28081	she	671	“ That ’s what mother used to do . Where ’s mother ? ”
+28135	28149	28157	28159	the little girl	673	“ Mother ’s gone . I guess you ’ll see her before long . ”
+28150	28155	28157	28159	the little girl	673	“ Gone , eh ! ”
+28161	28220	28081	28081	she	671	“ Funny , she did n’t say good - bye ; she ‘ most always did if she was just goin’ over to Auntie ’s for tea , and now she ’s been away three days . Say , it ’s awful dry , ai n’t it ? Ai n’t there no water , nor nothing to eat ? ”
+28221	28298	28308	28310	the little girl	673	“ No , there ai n’t nothing , dearie . You ’ll just need to be patient awhile , and then you ’ll be all right . Put your head up agin me like that , and then you ’ll feel bullier . It ai n’t easy to talk when your lips is like leather , but I guess I ’d best let you know how the cards lie . What ’s that you ’ve got ? ”
+28299	28306	28308	28310	the little girl	673	“ Pretty things ! fine things ! ”
+28321	28336	28349	28350	the man	1508	“ When we goes back to home I ’ll give them to brother Bob . ”
+28337	28347	28349	28350	the man	1508	“ You ’ll see prettier things than them soon , ”
+28353	28376	28081	28081	she	671	“ You just wait a bit . I was going to tell you though — you remember when we left the river ? ”
+28377	28382	28349	28350	the man	1508	“ Oh , yes . ”
+28383	28438	28456	28456	his	1508	“ Well , we reckoned we ’d strike another river soon , d’ye see . But there was somethin’ wrong ; compasses , or map , or somethin’ , and it did n’t turn up . Water ran out . Just except a little drop for the likes of you and — and — — ”
+28439	28447	28349	28350	the man	1508	“ And you could n’t wash yourself , ”
+28460	28500	28511	28513	the little girl	673	“ No , nor drink . And Mr. Bender , he was the fust to go , and then Indian Pete , and then Mrs. McGregor , and then Johnny Hones , and then , dearie , your mother . ”
+28501	28509	28349	28350	the man	1508	“ Then mother ’s a deader too , ”
+28524	28582	28597	28598	the child	671	“ Yes , they all went except you and me . Then I thought there was some chance of water in this direction , so I heaved you over my shoulder and we tramped it together . It do n’t seem as though we ’ve improved matters . There ’s an almighty small chance for us now ! ”
+28583	28595	28349	28350	the man	1508	“ Do you mean that we are going to die too ? ”
+28612	28623	28634	28634	she	671	“ I guess that ’s about the size of it . ”
+28624	28633	28634	28634	she	671	“ Why did n’t you say so before ? ”
+28640	28666	28349	28350	the man	1508	“ You gave me such a fright . Why , of course , now as long as we die we ’ll be with mother again . ”
+28667	28675	28634	28634	she	671	“ Yes , you will , dearie . ”
+28676	28740	28752	28753	The man	1508	“ And you too . I ’ll tell her how awful good you ’ve been . I ’ll bet she meets us at the door of Heaven with a big pitcher of water , and a lot of buckwheat cakes , hot , and toasted on both sides , like Bob and me was fond of . How long will it be first ? ”
+28741	28751	28844	28846	the little girl	673	“ I do n’t know — not very long . ”
+28837	28842	28859	28859	her	673	“ Cocks and hens , ”
+28866	28875	28884	28885	her companion	672	“ Say , did God make this country ? ”
+28876	28882	28910	28912	the little girl	673	“ In course He did , ”
+28894	28909	28910	28912	the little girl	673	“ He made the country down in Illinois , and He made the Missouri , ”
+28915	28943	28955	28956	the man	1508	“ I guess somebody else made the country in these parts . It ’s not nearly so well done . They forgot the water and the trees . ”
+28944	28954	28968	28968	she	673	“ What would ye think of offering up prayer ? ”
+28960	28967	28910	28912	the little girl	673	“ It ai n’t night yet , ”
+28971	29015	29026	29027	the child	671	“ It do n’t matter . It ai n’t quite regular , but He wo n’t mind that , you bet . You say over them ones that you used to say every night in the waggon when we was on the Plains . ”
+29016	29025	29040	29040	he	1508	“ Why do n’t you say some yourself ? ”
+29034	29039	29040	29040	he	1508	“ I disremember them , ”
+29043	29084	29099	29099	she	673	“ I hain’t said none since I was half the height o ’ that gun . I guess it ’s never too late . You say them out , and I ’ll stand by and come in on the choruses . ”
+29085	29098	29099	29099	she	673	“ Then you ’ll need to kneel down , and me too , ”
+29110	29131	29742	29753	a hard - lipped , clean - shaven man with grizzly hair	731	“ You ’ve got to put your hands up like this . It makes you feel kind o ’ good . ”
+29727	29738	29774	29774	another	1668	“ The wells are to the right , my brothers , ”
+29755	29772	29784	29786	a third .	733	“ To the right of the Sierra Blanco — so we shall reach the Rio Grande , ”
+29776	29782	29784	29786	a third .	733	“ Fear not for water , ”
+29787	29805	29813	29815	the whole party	735	“ He who could draw it from the rocks will not now abandon His own chosen people . ”
+29806	29811	29918	29926	the elderly man who appeared to be in command	741	“ Amen ! Amen ! ”
+29905	29916	29918	29926	the elderly man who appeared to be in command	741	“ There ca n’t be any number of Injuns here , ”
+29928	29948	29962	29965	one of the band	742	“ We have passed the Pawnees , and there are no other tribes until we cross the great mountains . ”
+29949	29960	29918	29926	the elderly man who appeared to be in command	741	“ Shall I go forward and see , Brother Stangerson , ”
+29967	29971	29978	29980	a dozen voices	744	“ And I , ”
+29972	29976	29995	29996	the Elder	745	“ and I , ”
+29982	29994	30379	30379	he	1508	“ Leave your horses below and we will await you here , ”
+30367	30378	30469	30470	the wanderer	701	“ This is what they call delirium , I guess , ”
+30461	30468	30469	30470	the wanderer	701	“ My name is John Ferrier , ”
+30473	30507	30516	30516	someone	1440	“ me and that little un are all that ’s left o ’ twenty - one people . The rest is all dead o ’ thirst and hunger away down in the south . ”
+30508	30514	30526	30527	the other	773	“ Is she your child ? ”
+30518	30525	30566	30566	he	774	“ I guess she is now , ”
+30532	30565	30566	30566	he	774	“ she ’s mine ‘ cause I saved her . No man will take her from me . She ’s Lucy Ferrier from this day on . Who are you , though ? ”
+30579	30590	30599	30603	one of the young men	776	“ there seems to be a powerful lot of ye . ”
+30591	30597	30599	30603	one of the young men	776	“ Nigh upon ten thousand , ”
+30605	30621	30632	30633	the wanderer	701	“ we are the persecuted children of God — the chosen of the Angel Merona . ”
+30622	30630	30632	30633	the wanderer	701	“ I never heard tell on him , ”
+30635	30647	30660	30661	the other	773	“ He appears to have chosen a fair crowd of ye . ”
+30648	30658	30660	30661	the other	773	“ Do not jest at that which is sacred , ”
+30664	30742	30759	30759	he	191	“ We are of those who believe in those sacred writings , drawn in Egyptian letters on plates of beaten gold , which were handed unto the holy Joseph Smith at Palmyra . We have come from Nauvoo , in the State of Illinois , where we had founded our temple . We have come to seek a refuge from the violent man and from the godless , even though it be the heart of the desert . ”
+30754	30758	30759	30759	he	191	“ I see , ”
+30762	30768	30777	30778	his companions	780	“ you are the Mormons . ”
+30769	30775	30759	30759	he	191	“ We are the Mormons , ”
+30783	30790	30759	30759	he	191	“ And where are you going ? ”
+30791	30828	31045	31045	he	795	“ We do not know . The hand of God is leading us under the person of our Prophet . You must come before him . He shall say what is to be done with you . ”
+31036	31044	31045	31045	he	795	“ If we take you with us , ”
+31052	31112	31126	31126	Ferrier	191	“ it can only be as believers in our own creed . We shall have no wolves in our fold . Better far that your bones should bleach in this wilderness than that you should prove to be that little speck of decay which in time corrupts the whole fruit . Will you come with us on these terms ? ”
+31113	31124	31159	31159	he	795	“ Guess I ’ll come with you on any terms , ”
+31151	31158	31159	31159	he	795	“ Take him , Brother Stangerson , ”
+31162	31201	31211	31214	the crowd of Mormons	801	“ give him food and drink , and the child likewise . Let it be your task also to teach him our holy creed . We have delayed long enough . Forward ! On , on to Zion ! ”
+31202	31209	31304	31304	he	807	“ On , on to Zion ! ”
+31297	31303	31304	31304	he	807	“ You shall remain here , ”
+31307	31360	33146	33147	her preserver	924	“ In a few days you will have recovered from your fatigues . In the meantime , remember that now and for ever you are of our religion . Brigham Young has said it , and he has spoken with the voice of Joseph Smith , which is the voice of God . ”
+33133	33144	33172	33172	she	1864	“ You ’re not hurt , I hope , miss , ”
+33165	33171	33172	33172	she	1864	“ I ’m awful frightened , ”
+33177	33195	33205	33206	the other	773	“ whoever would have thought that Poncho would have been so scared by a lot of cows ? ”
+33196	33204	33259	33259	he	773	“ Thank God you kept your seat , ”
+33247	33258	33259	33259	he	773	“ I guess you are the daughter of John Ferrier , ”
+33262	33304	33316	33316	she	928	“ I saw you ride down from his house . When you see him , ask him if he remembers the Jefferson Hopes of St. Louis . If he ’s the same Ferrier , my father and he were pretty thick . ”
+33305	33315	33345	33345	he	929	“ Had n’t you better come and ask yourself ? ”
+33338	33344	33345	33345	he	929	“ I ’ll do so , ”
+33348	33378	33396	33396	she	928	“ we ’ve been in the mountains for two months , and are not over and above in visiting condition . He must take us as he finds us . ”
+33379	33395	33396	33396	she	928	“ He has a good deal to thank you for , and so have I , ”
+33399	33422	33430	33431	her companion	672	“ he ’s awful fond of me . If those cows had jumped on me he ’d have never got over it . ”
+33423	33428	33396	33396	she	928	“ Neither would I , ”
+33433	33462	33491	33491	she	928	“ You ! Well , I do n’t see that it would make much matter to you , anyhow . You ai n’t even a friend of ours . ”
+33481	33490	33491	33491	she	928	“ There , I did n’t mean that , ”
+33494	33533	33540	33540	he	931	“ of course , you are a friend now . You must come and see us . Now I must push along , or father wo n’t trust me with his business any more . Good - bye ! ”
+33534	33539	34079	34079	he	953	“ Good - bye , ”
+34071	34078	34079	34079	he	953	“ I am off , Lucy , ”
+34097	34122	34131	34131	she	942	“ I wo n’t ask you to come with me now , but will you be ready to come when I am here again ? ”
+34123	34130	34079	34079	he	953	“ And when will that be ? ”
+34138	34168	34176	34176	she	942	“ A couple of months at the outside . I will come and claim you then , my darling . There ’s no one who can stand between us . ”
+34169	34175	34079	34079	he	953	“ And how about father ? ”
+34179	34203	34230	34230	she	942	“ He has given his consent , provided we get these mines working all right . I have no fear on that head . ”
+34204	34229	34246	34246	he	956	“ Oh , well ; of course , if you and father have arranged it all , there ’s no more to be said , ”
+34241	34245	34246	34246	he	956	“ Thank God ! ”
+34256	34305	35250	35250	he	191	“ It is settled , then . The longer I stay , the harder it will be to go . They are waiting for me at the cañon . Good - bye , my own darling — good - bye . In two months you shall see me . ”
+35245	35249	35250	35250	he	191	“ Brother Ferrier , ”
+35270	35331	35339	35340	John Ferrier	191	“ the true believers have been good friends to you . We picked you up when you were starving in the desert , we shared our food with you , led you safe to the Chosen Valley , gave you a goodly share of land , and allowed you to wax rich under our protection . Is not this so ? ”
+35332	35337	35250	35250	he	191	“ It is so , ”
+35342	35393	35404	35404	Ferrier	191	“ In return for all this we asked but one condition : that was , that you should embrace the true faith , and conform in every way to its usages . This you promised to do , and this , if common report says truly , you have neglected . ”
+35394	35402	35408	35408	his	191	“ And how have I neglected it ? ”
+35413	35437	35446	35446	Young	195	“ Have I not given to the common fund ? Have I not attended at the Temple ? Have I not — — ? ”
+35438	35444	35446	35446	Young	195	“ Where are your wives ? ”
+35452	35463	35475	35475	Ferrier	191	“ Call them in , that I may greet them . ”
+35464	35474	35475	35475	Ferrier	191	“ It is true that I have not married , ”
+35478	35511	35527	35531	the leader of the Mormons	1019	“ But women were few , and there were many who had better claims than I. I was not a lonely man : I had my daughter to attend to my wants . ”
+35512	35525	35527	35531	the leader of the Mormons	1019	“ It is of that daughter that I would speak to you , ”
+35533	35560	35561	35562	John Ferrier	191	“ She has grown to be the flower of Utah , and has found favour in the eyes of many who are high in the land . ”
+35566	35663	35671	35671	he	191	“ There are stories of her which I would fain disbelieve — stories that she is sealed to some Gentile . This must be the gossip of idle tongues . What is the thirteenth rule in the code of the sainted Joseph Smith ? ‘ Let every maiden of the true faith marry one of the elect ; for if she we d a Gentile , she commits a grievous sin . ’ This being so , it is impossible that you , who profess the holy creed , should suffer your daughter to violate it . ”
+35680	35791	35835	35835	he	191	“ Upon this one point your whole faith shall be tested — so it has been decided in the Sacred Council of Four . The girl is young , and we would not have her we d grey hairs , neither would we deprive her of all choice . We Elders have many heifers,[1 ] but our children must also be provided . Stangerson has a son , and Drebber has a son , and either of them would gladly welcome your daughter to their house . Let her choose between them . They are young and rich , and of the true faith . What say you to that ? ”
+35827	35834	35835	35835	he	191	“ You will give us time , ”
+35840	35856	35868	35868	Young	195	“ My daughter is very young — she is scarce of an age to marry . ”
+35857	35866	35868	35868	Young	195	“ She shall have a month to choose , ”
+35875	35888	35918	35918	he	195	“ At the end of that time she shall give her answer . ”
+35907	35917	35918	35918	he	195	“ It were better for you , John Ferrier , ”
+35921	35952	36046	36046	she	840	“ that you and she were now lying blanched skeletons upon the Sierra Blanco , than that you should put your weak wills against the orders of the Holy Four ! ”
+36038	36045	36046	36046	she	840	“ I could not help it , ”
+36055	36074	36083	36083	he	195	“ His voice rang through the house . Oh , father , father , what shall we do ? ”
+36075	36082	36093	36093	his	195	“ Do n’t you scare yourself , ”
+36104	36131	36093	36093	his	195	“ We ’ll fix it up somehow or another . You do n’t find your fancy kind o ’ lessening for this chap , do you ? ”
+36145	36247	36248	36248	Lucy	192	“ No ; of course not . I should n’t care to hear you say you did . He ’s a likely lad , and he ’s a Christian , which is more than these folk here , in spite o ’ all their praying and preaching . There ’s a party starting for Nevada to - morrow , and I ’ll manage to send him a message letting him know the hole we are in . If I know anything o ’ that young man , he ’ll be back here with a speed that would whip electro - telegraphs . ”
+36259	36306	36317	36318	her father	885	“ When he comes , he will advise us for the best . But it is for you that I am frightened , dear . One hears — one hears such dreadful stories about those who oppose the Prophet : something terrible always happens to them . ”
+36307	36316	36317	36318	her father	885	“ But we have n’t opposed him yet , ”
+36321	36359	36248	36248	Lucy	192	“ It will be time to look out for squalls when we do . We have a clear month before us ; at the end of that , I guess we had best shin out of Utah . ”
+36360	36364	36317	36318	her father	885	“ Leave Utah ! ”
+36365	36374	36248	36248	Lucy	192	“ That ’s about the size of it . ”
+36375	36380	36317	36318	her father	885	“ But the farm ? ”
+36381	36488	36248	36248	Lucy	192	“ We will raise as much as we can in money , and let the rest go . To tell the truth , Lucy , it is n’t the first time I have thought of doing it . I do n’t care about knuckling under to any man , as these folk do to their darned prophet . I ’m a free - born American , and it ’s all new to me . Guess I ’m too old to learn . If he comes browsing about this farm , he might chance to run up against a charge of buckshot travelling in the opposite direction . ”
+36489	36498	36317	36318	her father	885	“ But they wo n’t let us leave , ”
+36503	36566	36847	36847	he	191	“ Wait till Jefferson comes , and we ’ll soon manage that . In the meantime , do n’t you fret yourself , my dearie , and do n’t get your eyes swelled up , else he ’ll be walking into me when he sees you . There ’s nothing to be afeared about , and there ’s no danger at all . ”
+36838	36846	36847	36847	he	191	“ Maybe you do n’t know us , ”
+36850	36888	36904	36905	the other	773	“ This here is the son of Elder Drebber , and I ’m Joseph Stangerson , who travelled with you in the desert when the Lord stretched out His hand and gathered you into the true fold . ”
+36889	36902	36904	36905	the other	773	“ As He will all the nations in His own good time , ”
+36911	36919	36940	36940	Stangerson	144	“ He grindeth slowly but exceeding small . ”
+36933	36938	36940	36940	Stangerson	144	“ We have come , ”
+36942	36994	37005	37006	the other	773	“ at the advice of our fathers to solicit the hand of your daughter for whichever of us may seem good to you and to her . As I have but four wives and Brother Drebber here has seven , it appears to me that my claim is the stronger one . ”
+36995	37003	37005	37006	the other	773	“ Nay , nay , Brother Stangerson , ”
+37008	37044	37054	37055	the other	773	“ the question is not how many wives we have , but how many we can keep . My father has now given over his mills to me , and I am the richer man . ”
+37045	37052	37054	37055	the other	773	“ But my prospects are better , ”
+37059	37091	37104	37105	young Drebber	140	“ When the Lord removes my father , I shall have his tanning yard and his leather factory . Then I am your elder , and am higher in the Church . ”
+37092	37102	37109	37109	his	140	“ It will be for the maiden to decide , ”
+37116	37126	37161	37161	he	191	“ We will leave it all to her decision . ”
+37156	37160	37161	37161	he	191	“ Look here , ”
+37171	37195	37242	37242	Ferrier	191	“ when my daughter summons you , you can come , but until then I do n’t want to see your faces again . ”
+37230	37240	37242	37242	Ferrier	191	“ There are two ways out of the room , ”
+37244	37263	37315	37315	he	951	“ there is the door , and there is the window . Which do you care to use ? ”
+37300	37314	37328	37328	Stangerson	190	“ Let me know when you have settled which it is to be , ”
+37320	37327	37328	37328	Stangerson	190	“ You shall smart for this ! ”
+37335	37358	37373	37374	young Drebber	140	“ You have defied the Prophet and the Council of Four . You shall rue it to the end of your days . ”
+37359	37371	37373	37374	young Drebber	140	“ The hand of the Lord shall be heavy upon you , ”
+37376	37384	37395	37395	Ferrier	191	“ He will arise and smite you ! ”
+37385	37393	37447	37447	he	191	“ Then I ’ll start the smiting , ”
+37440	37446	37447	37447	he	191	“ The young canting rascals ! ”
+37457	37478	37488	37488	she	1053	“ I would sooner see you in your grave , my girl , than the wife of either of them . ”
+37479	37487	37488	37488	she	1053	“ And so should I , father , ”
+37494	37502	37447	37447	he	191	“ but Jefferson will soon be here . ”
+37503	37532	37854	37854	He	191	“ Yes . It will not be long before he comes . The sooner the better , for we do not know what their next move may be . ”
+37794	37809	38829	38830	John Ferrier	191	“ Twenty - nine days are given you for amendment , and then — — ”
+38823	38827	38829	38830	John Ferrier	191	“ Good God ! ”
+38832	38846	38853	38854	the other	773	“ How you scared me ! Whatever made you come in like that . ”
+38847	38852	38853	38854	the other	773	“ Give me food , ”
+38859	38877	38913	38913	he	191	“ I have had no time for bite or sup for eight - and - forty hours . ”
+38905	38912	38934	38935	her father	885	“ Does Lucy bear up well ? ”
+38923	38933	38999	38999	He	191	“ Yes . She does not know the danger , ”
+38938	38981	39023	39023	he	191	“ That is well . The house is watched on every side . That is why I crawled my way up to it . They may be darned sharp , but they ’re not quite sharp enough to catch a Washoe hunter . ”
+39012	39022	39023	39023	he	191	“ You ’re a man to be proud of , ”
+39026	39042	39053	39055	the young hunter	931	“ There are not many who would come to share our danger and our troubles . ”
+39043	39052	39053	39055	the young hunter	931	“ You ’ve hit it there , pard , ”
+39058	39119	39023	39023	he	191	“ I have a respect for you , but if you were alone in this business I ’d think twice before I put my head into such a hornet ’s nest . It ’s Lucy that brings me here , and before harm comes on her I guess there will be one less o ’ the Hope family in Utah . ”
+39120	39127	39053	39055	the young hunter	931	“ What are we to do ? ”
+39128	39167	39023	39023	he	191	“ To - morrow is your last day , and unless you act to - night you are lost . I have a mule and two horses waiting in the Eagle Ravine . How much money have you ? ”
+39168	39180	39053	39055	the young hunter	931	“ Two thousand dollars in gold , and five in notes . ”
+39181	39226	39334	39335	Jefferson Hope	200	“ That will do . I have as much more to add to it . We must push for Carson City through the mountains . You had best wake Lucy . It is as well that the servants do not sleep in the house . ”
+39323	39332	39334	39335	Jefferson Hope	200	“ We must make our start at once , ”
+39364	39419	39429	39429	Ferrier	192	“ The front and back entrances are watched , but with caution we may get away through the side window and across the fields . Once on the road we are only two miles from the Ravine where the horses are waiting . By daybreak we should be half - way through the mountains . ”
+39420	39427	39465	39465	he	200	“ What if we are stopped , ”
+39445	39464	39835	39842	the first who appeared to be in authority	1136	“ If they are too many for us we shall take two or three of them with us , ”
+39826	39833	39835	39842	the first who appeared to be in authority	1136	“ To - morrow at midnight , ”
+39844	39856	39864	39865	the other	773	“ When the Whip - poor - Will calls three times . ”
+39857	39862	39864	39865	the other	773	“ It is well , ”
+39867	39874	39835	39842	the first who appeared to be in authority	1136	“ Shall I tell Brother Drebber ? ”
+39875	39893	39901	39902	the other	773	“ Pass it on to him , and from him to the others . Nine to seven ! ”
+39894	39899	39990	39990	he	1903	“ Seven to five ! ”
+39982	39989	39990	39990	he	1903	“ Hurry on ! hurry on ! ”
+39997	40014	40399	40399	his	1164	“ We are through the line of sentinels . Everything depends on speed . Hurry on ! ”
+40403	40408	40422	40423	Jefferson Hope	200	“ Who goes there ? ”
+40415	40420	40465	40465	he	1164	“ Travellers for Nevada , ”
+40459	40464	40475	40475	Ferrier	192	“ By whose permission ? ”
+40468	40473	40502	40503	the sentinel	1167	“ The Holy Four , ”
+40495	40500	40512	40513	Jefferson Hope	200	“ Nine from seven , ”
+40505	40510	40545	40545	his	1164	“ Seven from five , ”
+40527	40537	40894	40894	he	200	“ Pass , and the Lord go with you , ”
+40882	40893	40894	40894	he	200	“ They will be upon our track by this time , ”
+40897	40918	42804	42804	he	200	“ Everything depends upon our speed . Once safe in Carson we may rest for the remainder of our lives . ”
+42797	42803	42804	42804	he	200	“ I am Jefferson Hope , ”
+42807	42812	42885	42885	he	1244	“ You remember me . ”
+42876	42884	42885	42885	he	1244	“ You are mad to come here , ”
+42888	42922	42935	42935	Hope	200	“ It is as much as my own life is worth to be seen talking with you . There is a warrant against you from the Holy Four for assisting the Ferriers away . ”
+42923	42934	42935	42935	Hope	200	“ I do n’t fear them , or their warrant , ”
+42940	42983	42990	42991	the Mormon	1246	“ You must know something of this matter , Cowper . I conjure you by everything you hold dear to answer a few questions . We have always been friends . For God ’s sake , do n’t refuse to answer me . ”
+42984	42989	42990	42991	the Mormon	1246	“ What is it ? ”
+42995	43009	42885	42885	he	1244	“ Be quick . The very rocks have ears and the trees eyes . ”
+43010	43018	42990	42991	the Mormon	1246	“ What has become of Lucy Ferrier ? ”
+43019	43044	43053	43053	Hope	200	“ She was married yesterday to young Drebber . Hold up , man , hold up , you have no life left in you . ”
+43045	43051	43056	43056	He	200	“ Do n’t mind me , ”
+43078	43084	42990	42991	the Mormon	1246	“ Married , you say ? ”
+43085	43206	43216	43217	Jefferson Hope	200	“ Married yesterday — that ’s what those flags are for on the Endowment House . There was some words between young Drebber and young Stangerson as to which was to have her . They ’d both been in the party that followed them , and Stangerson had shot her father , which seemed to give him the best claim ; but when they argued it out in council , Drebber ’s party was the stronger , so the Prophet gave her over to him . No one wo n’t have her very long though , for I saw death in her face yesterday . She is more like a ghost than a woman . Are you off , then ? ”
+43207	43214	42990	42991	the Mormon	1246	“ Yes , I am off , ”
+43253	43259	43265	43265	he	200	“ Where are you going ? ”
+43260	43264	43537	43537	he	1258	“ Never mind , ”
+43527	43536	44744	44744	he	1323	“ She shall not be buried in that , ”
+44728	44743	44744	44744	he	1323	“ I guess you ’re going to take me to the police - station , ”
+44750	44784	44912	44912	he	617	“ My cab ’s at the door . If you ’ll loose my legs I ’ll walk down to it . I ’m not so light to lift as I used to be . ”
+44888	44911	44912	44912	he	617	“ If there ’s a vacant place for a chief of the police , I reckon you are the man for it , ”
+44925	44937	44948	44948	Holmes	119	“ The way you kept on my trail was a caution . ”
+44938	44946	44962	44962	Lestrade	135	“ You had better come with me , ”
+44954	44960	44912	44912	he	617	“ I can drive you , ”
+44964	44996	45122	45122	he	1337	“ Good ! and Gregson can come inside with me . You too , Doctor , you have taken an interest in the case and may as well stick to us . ”
+45105	45121	45122	45122	he	1337	“ The prisoner will be put before the magistrates in the course of the week , ”
+45125	45163	45175	45176	our prisoner	1323	“ in the mean time , Mr. Jefferson Hope , have you anything that you wish to say ? I must warn you that your words will be taken down , and may be used against you . ”
+45164	45174	45175	45176	our prisoner	1323	“ I ’ve got a good deal to say , ”
+45180	45191	45205	45206	the Inspector	1340	“ I want to tell you gentlemen all about it . ”
+45192	45203	45216	45216	he	1340	“ Had n’t you better reserve that for your trial ? ”
+45208	45215	45241	45241	He	1340	“ I may never be tried , ”
+45219	45240	45263	45263	I	0	“ You need n’t look startled . It is n’t suicide I am thinking of . Are you a Doctor ? ”
+45256	45262	45274	45274	he	1340	“ Yes ; I am , ”
+45266	45273	45362	45362	I	0	“ Then put your hand here , ”
+45358	45361	45362	45362	I	0	“ Why , ”
+45365	45372	45382	45382	he	1340	“ you have an aortic aneurism ! ”
+45373	45381	45382	45382	he	1340	“ That ’s what they call it , ”
+45387	45483	45520	45521	the former	443	“ I went to a Doctor last week about it , and he told me that it is bound to burst before many days passed . It has been getting worse for years . I got it from over - exposure and under - feeding among the Salt Lake Mountains . I ’ve done my work now , and I do n’t care how soon I go , but I should like to leave some account of the business behind me . I do n’t want to be remembered as a common cut - throat . ”
+45506	45519	45531	45531	I	0	“ Do you consider , Doctor , that there is immediate danger ? ”
+45524	45530	45557	45558	the Inspector	1340	“ Most certainly there is , ”
+45534	45555	45557	45558	the Inspector	1340	“ In that case it is clearly our duty , in the interests of justice , to take his statement , ”
+45560	45583	45595	45596	the prisoner	617	“ You are at liberty , sir , to give your account , which I again warn you will be taken down . ”
+45584	45594	45595	45596	the prisoner	617	“ I ’ll sit down , with your leave , ”
+45606	45672	45764	45764	he	181	“ This aneurism of mine makes me easily tired , and the tussle we had half an hour ago has not mended matters . I ’m on the brink of the grave , and I am not likely to lie to you . Every word I say is the absolute truth , and how you use it is a matter of no consequence to me . ”
+45749	45763	45764	45764	he	181	“ It do n’t much matter to you why I hated these men , ”
+45767	45875	47267	47267	I	0	“ it ’s enough that they were guilty of the death of two human beings — a father and a daughter — and that they had , therefore , forfeited their own lives . After the lapse of time that has passed since their crime , it was impossible for me to secure a conviction against them in any court . I knew of their guilt though , and I determined that I should be judge , jury , and executioner all rolled into one . You ’d have done the same , if you have any manhood in you , if you had been in my place .
+45876	46035	45764	45764	he	181	“ That girl that I spoke of was to have married me twenty years ago . She was forced into marrying that same Drebber , and broke her heart over it . I took the marriage ring from her dead finger , and I vowed that his dying eyes should rest upon that very ring , and that his last thoughts should be of the crime for which he was punished . I have carried it about with me , and have followed him and his accomplice over two continents until I caught them . They thought to tire me out , but they could not do it . If I die to - morrow , as is likely enough , I die knowing that my work in this world is done , and well done . They have perished , and by my hand . There is nothing left for me to hope for , or to desire .
+46036	46202	47267	47267	I	0	“ They were rich and I was poor , so that it was no easy matter for me to follow them . When I got to London my pocket was about empty , and I found that I must turn my hand to something for my living . Driving and riding are as natural to me as walking , so I applied at a cabowner ’s office , and soon got employment . I was to bring a certain sum a week to the owner , and whatever was over that I might keep for myself . There was seldom much over , but I managed to scrape along somehow . The hardest job was to learn my way about , for I reckon that of all the mazes that ever were contrived , this city is the most confusing . I had a map beside me though , and when once I had spotted the principal hotels and stations , I got on pretty well .
+46203	46306	45764	45764	he	181	“ It was some time before I found out where my two gentlemen were living ; but I inquired and inquired until at last I dropped across them . They were at a boarding - house at Camberwell , over on the other side of the river . When once I found them out I knew that I had them at my mercy . I had grown my beard , and there was no chance of their recognizing me . I would dog them and follow them until I saw my opportunity . I was determined that they should not escape me again .
+46307	46412	47267	47267	I	0	“ They were very near doing it for all that . Go where they would about London , I was always at their heels . Sometimes I followed them on my cab , and sometimes on foot , but the former was the best , for then they could not get away from me . It was only early in the morning or late at night that I could earn anything , so that I began to get behind hand with my employer . I did not mind that , however , as long as I could lay my hand upon the men I wanted .
+46413	46536	45764	45764	he	181	“ They were very cunning , though . They must have thought that there was some chance of their being followed , for they would never go out alone , and never after nightfall . During two weeks I drove behind them every day , and never once saw them separate . Drebber himself was drunk half the time , but Stangerson was not to be caught napping . I watched them late and early , but never saw the ghost of a chance ; but I was not discouraged , for something told me that the hour had almost come . My only fear was that this thing in my chest might burst a little too soon and leave my work undone .
+46537	46875	47267	47267	I	0	“ At last , one evening I was driving up and down Torquay Terrace , as the street was called in which they boarded , when I saw a cab drive up to their door . Presently some luggage was brought out , and after a time Drebber and Stangerson followed it , and drove off . I whipped up my horse and kept within sight of them , feeling very ill at ease , for I feared that they were going to shift their quarters . At Euston Station they got out , and I left a boy to hold my horse , and followed them on to the platform . I heard them ask for the Liverpool train , and the guard answer that one had just gone and there would not be another for some hours . Stangerson seemed to be put out at that , but Drebber was rather pleased than otherwise . I got so close to them in the bustle that I could hear every word that passed between them . Drebber said that he had a little business of his own to do , and that if the other would wait for him he would soon rejoin him . His companion remonstrated with him , and reminded him that they had resolved to stick together . Drebber answered that the matter was a delicate one , and that he must go alone . I could not catch what Stangerson said to that , but the other burst out swearing , and reminded him that he was nothing more than his paid servant , and that he must not presume to dictate to him . On that the Secretary gave it up as a bad job , and simply bargained with him that if he missed the last train he should rejoin him at Halliday ’s Private Hotel ; to which Drebber answered that he would be back on the platform before eleven , and made his way out of the station .
+46876	47093	45764	45764	he	181	“ The moment for which I had waited so long had at last come . I had my enemies within my power . Together they could protect each other , but singly they were at my mercy . I did not act , however , with undue precipitation . My plans were already formed . There is no satisfaction in vengeance unless the offender has time to realize who it is that strikes him , and why retribution has come upon him . I had my plans arranged by which I should have the opportunity of making the man who had wronged me understand that his old sin had found him out . It chanced that some days before a gentleman who had been engaged in looking over some houses in the Brixton Road had dropped the key of one of them in my carriage . It was claimed that same evening , and returned ; but in the interval I had taken a moulding of it , and had a duplicate constructed . By means of this I had access to at least one spot in this great city where I could rely upon being free from interruption . How to get Drebber to that house was the difficult problem which I had now to solve .
+47094	47266	47285	47285	he	1349	“ He walked down the road and went into one or two liquor shops , staying for nearly half - an - hour in the last of them . When he came out he staggered in his walk , and was evidently pretty well on . There was a hansom just in front of me , and he hailed it . I followed it so close that the nose of my horse was within a yard of his driver the whole way . We rattled across Waterloo Bridge and through miles of streets , until , to my astonishment , we found ourselves back in the Terrace in which he had boarded . I could not imagine what his intention was in returning there ; but I went on and pulled up my cab a hundred yards or so from the house . He entered it , and his hansom drove away . Give me a glass of water , if you please . My mouth gets dry with the talking . ”
+47279	47284	47285	47285	he	1349	“ That ’s better , ”
+47288	47476	45764	45764	he	181	“ Well , I waited for a quarter of an hour , or more , when suddenly there came a noise like people struggling inside the house . Next moment the door was flung open and two men appeared , one of whom was Drebber , and the other was a young chap whom I had never seen before . This fellow had Drebber by the collar , and when they came to the head of the steps he gave him a shove and a kick which sent him half across the road . ‘ You hound , ’ he cried , shaking his stick at him ; ‘ I ’ll teach you to insult an honest girl ! ’ He was so hot that I think he would have thrashed Drebber with his cudgel , only that the cur staggered away down the road as fast as his legs would carry him . He ran as far as the corner , and then , seeing my cab , he hailed me and jumped in . ‘ Drive me to Halliday ’s Private Hotel , ’ said he .
+47477	47623	47285	47285	he	1349	“ When I had him fairly inside my cab , my heart jumped so with joy that I feared lest at this last moment my aneurism might go wrong . I drove along slowly , weighing in my own mind what it was best to do . I might take him right out into the country , and there in some deserted lane have my last interview with him . I had almost decided upon this , when he solved the problem for me . The craze for drink had seized him again , and he ordered me to pull up outside a gin palace . He went in , leaving word that I should wait for him . There he remained until closing time , and when he came out he was so far gone that I knew the game was in my own hands .
+47624	47898	45764	45764	he	181	“ Do n’t imagine that I intended to kill him in cold blood . It would only have been rigid justice if I had done so , but I could not bring myself to do it . I had long determined that he should have a show for his life if he chose to take advantage of it . Among the many billets which I have filled in America during my wandering life , I was once janitor and sweeper out of the laboratory at York College . One day the professor was lecturing on poisons , and he showed his students some alkaloid , as he called it , which he had extracted from some South American arrow poison , and which was so powerful that the least grain meant instant death . I spotted the bottle in which this preparation was kept , and when they were all gone , I helped myself to a little of it . I was a fairly good dispenser , so I worked this alkaloid into small , soluble pills , and each pill I put in a box with a similar pill made without the poison . I determined at the time that when I had my chance , my gentlemen should each have a draw out of one of these boxes , while I ate the pill that remained . It would be quite as deadly , and a good deal less noisy than firing across a handkerchief . From that day I had always my pill boxes about with me , and the time had now come when I was to use them .
+47899	48071	47285	47285	he	1349	“ It was nearer one than twelve , and a wild , bleak night , blowing hard and raining in torrents . Dismal as it was outside , I was glad within — so glad that I could have shouted out from pure exultation . If any of you gentlemen have ever pined for a thing , and longed for it during twenty long years , and then suddenly found it within your reach , you would understand my feelings . I lit a cigar , and puffed at it to steady my nerves , but my hands were trembling , and my temples throbbing with excitement . As I drove , I could see old John Ferrier and sweet Lucy looking at me out of the darkness and smiling at me , just as plain as I see you all in this room . All the way they were ahead of me , one on each side of the horse until I pulled up at the house in the Brixton Road .
+48072	48133	45764	45764	he	181	“ There was not a soul to be seen , nor a sound to be heard , except the dripping of the rain . When I looked in at the window , I found Drebber all huddled together in a drunken sleep . I shook him by the arm , ‘ It ’s time to get out , ’ I said .
+48134	48144	47285	47285	he	1349	“ ‘ All right , cabby , ’ said he .
+48145	48237	45764	45764	he	181	“ I suppose he thought we had come to the hotel that he had mentioned , for he got out without another word , and followed me down the garden . I had to walk beside him to keep him steady , for he was still a little top - heavy . When we came to the door , I opened it , and led him into the front room . I give you my word that all the way , the father and the daughter were walking in front of us .
+48238	48251	47285	47285	he	1349	“ ‘ It ’s infernally dark , ’ said he , stamping about .
+48252	48310	45764	45764	he	181	“ ‘ We ’ll soon have a light , ’ I said , striking a match and putting it to a wax candle which I had brought with me . ‘ Now , Enoch Drebber , ’ I continued , turning to him , and holding the light to my own face , ‘ who am I ? ’
+48311	48418	47285	47285	he	1349	“ He gazed at me with bleared , drunken eyes for a moment , and then I saw a horror spring up in them , and convulse his whole features , which showed me that he knew me . He staggered back with a livid face , and I saw the perspiration break out upon his brow , while his teeth chattered in his head . At the sight , I leaned my back against the door and laughed loud and long . I had always known that vengeance would be sweet , but I had never hoped for the contentment of soul which now possessed me .
+48419	48541	45764	45764	he	181	“ ‘ You dog ! ’ I said ; ‘ I have hunted you from Salt Lake City to St. Petersburg , and you have always escaped me . Now , at last your wanderings have come to an end , for either you or I shall never see to - morrow ’s sun rise . ’ He shrunk still further away as I spoke , and I could see on his face that he thought I was mad . So I was for the time . The pulses in my temples beat like sledge - hammers , and I believe I would have had a fit of some sort if the blood had not gushed from my nose and relieved me .
+48542	48612	47285	47285	he	1349	“ ‘ What do you think of Lucy Ferrier now ? ’ I cried , locking the door , and shaking the key in his face . ‘ Punishment has been slow in coming , but it has overtaken you at last . ’ I saw his coward lips tremble as I spoke . He would have begged for his life , but he knew well that it was useless .
+48613	48623	45764	45764	he	181	“ ‘ Would you murder me ? ’ he stammered .
+48624	48673	47285	47285	he	1349	“ ‘ There is no murder , ’ I answered . ‘ Who talks of murdering a mad dog ? What mercy had you upon my poor darling , when you dragged her from her slaughtered father , and bore her away to your accursed and shameless harem . ’
+48674	48688	45764	45764	he	181	“ ‘ It was not I who killed her father , ’ he cried .
+48689	48761	47285	47285	he	1349	“ ‘ But it was you who broke her innocent heart , ’ I shrieked , thrusting the box before him . ‘ Let the high God judge between us . Choose and eat . There is death in one and life in the other . I shall take what you leave . Let us see if there is justice upon the earth , or if we are ruled by chance . ’
+48762	48943	45764	45764	he	181	“ He cowered away with wild cries and prayers for mercy , but I drew my knife and held it to his throat until he had obeyed me . Then I swallowed the other , and we stood facing one another in silence for a minute or more , waiting to see which was to live and which was to die . Shall I ever forget the look which came over his face when the first warning pangs told him that the poison was in his system ? I laughed as I saw it , and held Lucy ’s marriage ring in front of his eyes . It was but for a moment , for the action of the alkaloid is rapid . A spasm of pain contorted his features ; he threw his hands out in front of him , staggered , and then , with a hoarse cry , fell heavily upon the floor . I turned him over with my foot , and placed my hand upon his heart . There was no movement . He was dead !
+48944	49231	47285	47285	he	1349	“ The blood had been streaming from my nose , but I had taken no notice of it . I do n’t know what it was that put it into my head to write upon the wall with it . Perhaps it was some mischievous idea of setting the police upon a wrong track , for I felt light - hearted and cheerful . I remembered a German being found in New York with RACHE written up above him , and it was argued at the time in the newspapers that the secret societies must have done it . I guessed that what puzzled the New Yorkers would puzzle the Londoners , so I dipped my finger in my own blood and printed it on a convenient place on the wall . Then I walked down to my cab and found that there was nobody about , and that the night was still very wild . I had driven some distance when I put my hand into the pocket in which I usually kept Lucy ’s ring , and found that it was not there . I was thunderstruck at this , for it was the only memento that I had of her . Thinking that I might have dropped it when I stooped over Drebber ’s body , I drove back , and leaving my cab in a side street , I went boldly up to the house — for I was ready to dare anything rather than lose the ring . When I arrived there , I walked right into the arms of a police - officer who was coming out , and only managed to disarm his suspicions by pretending to be hopelessly drunk .
+49232	49491	45764	45764	he	181	“ That was how Enoch Drebber came to his end . All I had to do then was to do as much for Stangerson , and so pay off John Ferrier ’s debt . I knew that he was staying at Halliday ’s Private Hotel , and I hung about all day , but he never came out . I fancy that he suspected something when Drebber failed to put in an appearance . He was cunning , was Stangerson , and always on his guard . If he thought he could keep me off by staying indoors he was very much mistaken . I soon found out which was the window of his bedroom , and early next morning I took advantage of some ladders which were lying in the lane behind the hotel , and so made my way into his room in the grey of the dawn . I woke him up and told him that the hour had come when he was to answer for the life he had taken so long before . I described Drebber ’s death to him , and I gave him the same choice of the poisoned pills . Instead of grasping at the chance of safety which that offered him , he sprang from his bed and flew at my throat . In self - defence I stabbed him to the heart . It would have been the same in any case , for Providence would never have allowed his guilty hand to pick out anything but the poison .
+49492	49652	49754	49755	Sherlock Holmes	119	“ I have little more to say , and it ’s as well , for I am about done up . I went on cabbing it for a day or so , intending to keep at it until I could save enough to take me back to America . I was standing in the yard when a ragged youngster asked if there was a cabby there called Jefferson Hope , and said that his cab was wanted by a gentleman at 221B , Baker Street . I went round , suspecting no harm , and the next thing I knew , this young man here had the bracelets on my wrists , and as neatly shackled as ever I saw in my life . That ’s the whole of my story , gentlemen . You may consider me to be a murderer ; but I hold that I am just as much an officer of justice as you are . ”
+49737	49753	49754	49755	Sherlock Holmes	119	“ There is only one point on which I should like a little more information , ”
+49760	49774	49792	49792	he	617	“ Who was your accomplice who came for the ring which I advertised ? ”
+49783	49791	49792	49792	he	617	“ I can tell my own secrets , ”
+49795	49848	49858	49858	Holmes	119	“ but I do n’t get other people into trouble . I saw your advertisement , and I thought it might be a plant , or it might be the ring which I wanted . My friend volunteered to go and see . I think you ’ll own he did it smartly . ”
+49849	49856	49867	49868	the Inspector	1340	“ Not a doubt of that , ”
+49861	49866	49911	49911	He	1340	“ Now , gentlemen , ”
+49872	49910	50084	50084	Holmes	119	“ the forms of the law must be complied with . On Thursday the prisoner will be brought before the magistrates , and your attendance will be required . Until then I will be responsible for him . ”
+50072	50083	50084	50084	Holmes	119	“ Gregson and Lestrade will be wild about his death , ”
+50095	50104	50122	50122	I	0	“ Where will their grand advertisement be now ? ”
+50105	50121	50141	50142	my companion	271	“ I do n’t see that they had very much to do with his capture , ”
+50125	50139	50166	50166	he	119	“ What you do in this world is a matter of no consequence , ”
+50146	50165	50166	50166	he	119	“ The question is , what can you make people believe that you have done . Never mind , ”
+50176	50211	50216	50216	I	0	“ I would not have missed the investigation for anything . There has been no better case within my recollection . Simple as it was , there were several most instructive points about it . ”
+50212	50215	50234	50235	Sherlock Holmes	119	“ Simple ! ”
+50219	50232	50234	50235	Sherlock Holmes	119	“ Well , really , it can hardly be described as otherwise , ”
+50242	50275	50283	50283	I.	0	“ The proof of its intrinsic simplicity is , that without any help save a few very ordinary deductions I was able to lay my hand upon the criminal within three days . ”
+50276	50281	50234	50235	Sherlock Holmes	119	“ That is true , ”
+50284	50386	50393	50393	I	0	“ I have already explained to you that what is out of the common is usually a guide rather than a hindrance . In solving a problem of this sort , the grand thing is to be able to reason backwards . That is a very useful accomplishment , and a very easy one , but people do not practise it much . In the every - day affairs of life it is more useful to reason forwards , and so the other comes to be neglected . There are fifty who can reason synthetically for one who can reason analytically . ”
+50387	50391	50393	50393	I	0	“ I confess , ”
+50395	50404	50234	50235	Sherlock Holmes	119	“ that I do not quite follow you . ”
+50405	50519	50526	50526	I.	1367	“ I hardly expected that you would . Let me see if I can make it clearer . Most people , if you describe a train of events to them , will tell you what the result would be . They can put those events together in their minds , and argue from them that something will come to pass . There are few people , however , who , if you told them a result , would be able to evolve from their own inner consciousness what the steps were which led up to that result . This power is what I mean when I talk of reasoning backwards , or analytically . ”
+50520	50524	50234	50235	Sherlock Holmes	119	“ I understand , ”
+50527	50668	50234	50235	Sherlock Holmes	119	“ Now this was a case in which you were given the result and had to find everything else for yourself . Now let me endeavour to show you the different steps in my reasoning . To begin at the beginning . I approached the house , as you know , on foot , and with my mind entirely free from all impressions . I naturally began by examining the roadway , and there , as I have already explained to you , I saw clearly the marks of a cab , which , I ascertained by inquiry , must have been there during the night . I satisfied myself that it was a cab and not a private carriage by the narrow gauge of the wheels . The ordinary London growler is considerably less wide than a gentleman ’s brougham .
+50669	50890	50234	50235	Sherlock Holmes	119	“ This was the first point gained . I then walked slowly down the garden path , which happened to be composed of a clay soil , peculiarly suitable for taking impressions . No doubt it appeared to you to be a mere trampled line of slush , but to my trained eyes every mark upon its surface had a meaning . There is no branch of detective science which is so important and so much neglected as the art of tracing footsteps . Happily , I have always laid great stress upon it , and much practice has made it second nature to me . I saw the heavy footmarks of the constables , but I saw also the track of the two men who had first passed through the garden . It was easy to tell that they had been before the others , because in places their marks had been entirely obliterated by the others coming upon the top of them . In this way my second link was formed , which told me that the nocturnal visitors were two in number , one remarkable for his height ( as I calculated from the length of his stride ) , and the other fashionably dressed , to judge from the small and elegant impression left by his boots .
+50891	51102	50234	50235	Sherlock Holmes	119	“ On entering the house this last inference was confirmed . My well - booted man lay before me . The tall one , then , had done the murder , if murder there was . There was no wound upon the dead man ’s person , but the agitated expression upon his face assured me that he had foreseen his fate before it came upon him . Men who die from heart disease , or any sudden natural cause , never by any chance exhibit agitation upon their features . Having sniffed the dead man ’s lips I detected a slightly sour smell , and I came to the conclusion that he had had poison forced upon him . Again , I argued that it had been forced upon him from the hatred and fear expressed upon his face . By the method of exclusion , I had arrived at this result , for no other hypothesis would meet the facts . Do not imagine that it was a very unheard of idea . The forcible administration of poison is by no means a new thing in criminal annals . The cases of Dolsky in Odessa , and of Leturier in Montpellier , will occur at once to any toxicologist .
+51103	51328	50234	50235	Sherlock Holmes	119	“ And now came the great question as to the reason why . Robbery had not been the object of the murder , for nothing was taken . Was it politics , then , or was it a woman ? That was the question which confronted me . I was inclined from the first to the latter supposition . Political assassins are only too glad to do their work and to fly . This murder had , on the contrary , been done most deliberately , and the perpetrator had left his tracks all over the room , showing that he had been there all the time . It must have been a private wrong , and not a political one , which called for such a methodical revenge . When the inscription was discovered upon the wall I was more inclined than ever to my opinion . The thing was too evidently a blind . When the ring was found , however , it settled the question . Clearly the murderer had used it to remind his victim of some dead or absent woman . It was at this point that I asked Gregson whether he had enquired in his telegram to Cleveland as to any particular point in Mr. Drebber ’s former career . He answered , you remember , in the negative .
+51329	51473	50234	50235	Sherlock Holmes	119	“ I then proceeded to make a careful examination of the room , which confirmed me in my opinion as to the murderer ’s height , and furnished me with the additional details as to the Trichinopoly cigar and the length of his nails . I had already come to the conclusion , since there were no signs of a struggle , that the blood which covered the floor had burst from the murderer ’s nose in his excitement . I could perceive that the track of blood coincided with the track of his feet . It is seldom that any man , unless he is very full - blooded , breaks out in this way through emotion , so I hazarded the opinion that the criminal was probably a robust and ruddy - faced man . Events proved that I had judged correctly .
+51474	51579	50234	50235	Sherlock Holmes	119	“ Having left the house , I proceeded to do what Gregson had neglected . I telegraphed to the head of the police at Cleveland , limiting my enquiry to the circumstances connected with the marriage of Enoch Drebber . The answer was conclusive . It told me that Drebber had already applied for the protection of the law against an old rival in love , named Jefferson Hope , and that this same Hope was at present in Europe . I knew now that I held the clue to the mystery in my hand , and all that remained was to secure the murderer .
+51580	51742	50234	50235	Sherlock Holmes	119	“ I had already determined in my own mind that the man who had walked into the house with Drebber , was none other than the man who had driven the cab . The marks in the road showed me that the horse had wandered on in a way which would have been impossible had there been anyone in charge of it . Where , then , could the driver be , unless he were inside the house ? Again , it is absurd to suppose that any sane man would carry out a deliberate crime under the very eyes , as it were , of a third person , who was sure to betray him . Lastly , supposing one man wished to dog another through London , what better means could he adopt than to turn cabdriver . All these considerations led me to the irresistible conclusion that Jefferson Hope was to be found among the jarveys of the Metropolis .
+51743	51947	51954	51954	I	0	“ If he had been one there was no reason to believe that he had ceased to be . On the contrary , from his point of view , any sudden change would be likely to draw attention to himself . He would , probably , for a time at least , continue to perform his duties . There was no reason to suppose that he was going under an assumed name . Why should he change his name in a country where no one knew his original one ? I therefore organized my Street Arab detective corps , and sent them systematically to every cab proprietor in London until they ferreted out the man that I wanted . How well they succeeded , and how quickly I took advantage of it , are still fresh in your recollection . The murder of Stangerson was an incident which was entirely unexpected , but which could hardly in any case have been prevented . Through it , as you know , I came into possession of the pills , the existence of which I had already surmised . You see the whole thing is a chain of logical sequences without a break or flaw . ”
+51948	51953	51954	51954	I	0	“ It is wonderful ! ”
+51957	51984	51996	51996	he	1368	“ Your merits should be publicly recognized . You should publish an account of the case . If you wo n’t , I will for you . ”
+51985	51995	52004	52004	he	1368	“ You may do what you like , Doctor , ”
+51999	52003	52004	52004	he	1368	“ See here ! ”
+52014	52019	51954	51954	I	0	“ look at this ! ”
+52045	52049	51954	51954	I	0	“ The public , ”
+52053	52325	52339	52340	Sherlock Holmes	119	“ have lost a sensational treat through the sudden death of the man Hope , who was suspected of the murder of Mr. Enoch Drebber and of Mr. Joseph Stangerson . The details of the case will probably be never known now , though we are informed upon good authority that the crime was the result of an old standing and romantic feud , in which love and Mormonism bore a part . It seems that both the victims belonged , in their younger days , to the Latter Day Saints , and Hope , the deceased prisoner , hails also from Salt Lake City . If the case has had no other effect , it , at least , brings out in the most striking manner the efficiency of our detective police force , and will serve as a lesson to all foreigners that they will do wisely to settle their feuds at home , and not to carry them on to British soil . It is an open secret that the credit of this smart capture belongs entirely to the well - known Scotland Yard officials , Messrs. Lestrade and Gregson . The man was apprehended , it appears , in the rooms of a certain Mr. Sherlock Holmes , who has himself , as an amateur , shown some talent in the detective line , and who , with such instructors , may hope in time to attain to some degree of their skill . It is expected that a testimonial of some sort will be presented to the two officers as a fitting recognition of their services . ”
+52326	52337	52339	52340	Sherlock Holmes	119	“ Did n’t I tell you so when we started ? ”
+52345	52363	52369	52369	I	0	“ That ’s the result of all our Study in Scarlet : to get them a testimonial ! ”
+52364	52368	52369	52369	I	0	“ Never mind , ”
+52372	52407	52339	52340	Sherlock Holmes	119	“ I have all the facts in my journal , and the public shall know them . In the meantime you must make yourself contented by the consciousness of success , like the Roman miser —
+52408	52427	52729	52729	you	1370	“ ‘ Populus me sibilat , at mihi plaudo Ipse domi simul ac nummos contemplor in arca . ’ ”
+52723	52726	52929	52940	people who agree to be bound by the terms of this agreement	1371	“ Project Gutenberg ”
+52904	52907	52990	52990	you	1370	“ Project Gutenberg ”
+53023	53026	None	None	None	None	“ the Foundation ”
+53360	53363	53514	53516	the copyright holder	1387	“ Project Gutenberg ”
+53371	53374	53798	53798	you	1370	“ Project Gutenberg ”
+53552	53555	53841	53841	you	1370	“ Project Gutenberg ”
+53816	53820	54150	54150	You	1370	“ Plain Vanilla ASCII ”
+53883	53887	54360	54361	Project Gutenberg	217	“ Plain Vanilla ASCII ”
+54089	54101	54466	54473	the owner of the Project Gutenberg ™ trademark	1393	“ Information about donations to the Project Gutenberg Literary Archive Foundation . ”
+54378	54381	54758	54758	you	1370	“ Defects , ”
+54447	54453	None	None	None	None	“ Right of Replacement or Refund ”
+54759	54763	None	None	None	None	“ AS - IS ”
