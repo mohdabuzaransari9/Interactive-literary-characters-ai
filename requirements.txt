@@ -616,3 +616,4 @@ yfinance==0.2.54
 zict==3.0.0
 zipp==3.21.0
 zstandard==0.23.0
+streamlit
