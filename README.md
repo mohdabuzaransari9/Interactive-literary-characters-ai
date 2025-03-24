@@ -2,7 +2,7 @@
 
 
 
-# rqruired links
+# required links
 
 !pip install git+https://github.com/huggingface/accelerate.git<br>
 !pip install git+https://github.com/huggingface/transformers.git<br>
