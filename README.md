@@ -1,6 +1,12 @@
 # project
 
-our final year project
+
+
+# rqruired links
+
+!pip install git+https://github.com/huggingface/accelerate.git
+!pip install git+https://github.com/huggingface/transformers.git
+!pip install git+https://github.com/TimDettmers/bitsandbytes.git
 
 [Live Demo][app]
 
