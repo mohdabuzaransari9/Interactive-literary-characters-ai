@@ -4,9 +4,9 @@
 
 # rqruired links
 
-!pip install git+https://github.com/huggingface/accelerate.git
-!pip install git+https://github.com/huggingface/transformers.git
-!pip install git+https://github.com/TimDettmers/bitsandbytes.git
+!pip install git+https://github.com/huggingface/accelerate.git<br>
+!pip install git+https://github.com/huggingface/transformers.git<br>
+!pip install git+https://github.com/TimDettmers/bitsandbytes.git<br>
 
 [Live Demo][app]
 
